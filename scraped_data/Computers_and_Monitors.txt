@@ -1,0 +1,87 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Computers_and_Monitors
+Title: Computers and Monitors
+Content:
+	Despite all of the Mac-shaming on Discord, there is nothing wrong with dual booting or using the Georgia Tech Virtual Machines to access windows-only applications like Solidworks and Autodesk.
+	FYI: according to boomers, the GT VMs are much slower than actually having the program on your laptop, especially if you use the wrong VM settings.
+	Laptops usually come in 13", 14", or 15" sizes. To figure out which size laptop you prefer, either measure your old laptop or do some simple trig and make an exact-size paper cutout of the screen.
+	Whether you get a gaming laptop or a more "professional" laptop completely depends on your preferences. Many high school students already have gaming laptops, and gaming laptops can sometimes be cheaper than regular laptops. On the other hand, professors will respect you more if you walk in to office hours with a sleek professional laptop rather than a large, colorful, gaming laptop. Another consideration is the battery life of gaming laptops, as they usually only last a few hours, while most non-gaming laptops can last 8+ hours on a full charge. The final consideration is that gaming laptop's fans can sound like industrial power plants while running Solidworks, so it would be awkward to use them in quiet spaces.
+	The name brand laptops are Dell, Lenovo, HP, and Mac. There are other brands of laptops that may be cheaper, but its usually smart to spend an extra $100 on the name brand product, as debugging and management is usually easier.
+	At the expense of boring you with complicated computer-jargon, the following paragraph will be completely in layman's terms. There are two main processor brands, Intel and AMD, which sell CPU's, or computer processing units. These processors are the "brain" or your computer, and control almost everything in it. While Intel has been mostly stagnant in developing their processors for the past few years, AMD has surged forward with an intense focus on research and development, which has enabled them to beat Intel's processors. Essentially, if you simply look at the speeds of comparable mid-range processors from Intel and AMD, AMD is faster in web-browsing, 3D Modeling, and gaming[1].
+	Additionally, at the time of the writing of this article, AMD has steadily risen in its market share of processors for the past three years, while Intel has declined[2]. This shows that Intel's processors are getting less popular, while AMD's processors are getting more popular.
+	That being said, which processor should you buy? Although AMD's mid-range processors are slightly faster than comparable Intel processors, the difference is negligible for most applications, like using Solidworks, Autodesk, and Chrome. If the current market trend continues, AMD will become the dominant processor brand, which means prices can be expected to rise. Thus, buying a fast AMD processor now, before prices rise, is a better investment than an Intel processor, which is made by a slowly dying corporate brand.
+	Although the Intel vs. AMD argument seems like a clear choice, there are many die-hard Intel fans, so the following two sections will cover buying an Intel processor and secondly, an AMD processor.
+	Although Intel processor names can seem like absolute gibberish, the numbers and letters are actually codes for basic information about the processor. For the following three paragraphs, please refer to this processor name (Intel® Core™ i7-1165G7 Processor) as an example. There are four generations of Intel processors: i3, i5, i7, and i9. Most laptops under $1000 will have i5 or i7 processors, while higher level laptops will have the newer i9 processors. Although there are a few i5 processors that are faster than some i7 processors, generally, i7 processors are faster than i5 processors.
+	The next two numbers in the label (11 in the case of the example) are the generation of the processor[3]. The newest generation is the 11th generation, which is kind of like buying an iPhone 12. Most cheaper laptops that college students will buy have 9th or 10th generation processors in them, but make sure to not buy an 8th gen processor (comparable to an iPhone 7), as they are mostly outdated.
+	The next numbers are called "SKU Numeric Digits", which are basically numbers assigned to processors as they are produced, with the higher number being better[4]. In the example, the SKU digits are "65", so this processor would be better than an 11th generation i7 with the SKU digit of "55". After the numeric digits, the processor title will either say G1, G2, G3, G4, G5, G6, G7 or a random letter; please consult the following chart from Intel[5] to understand what the suffix means.
+	The processor will also come with a certain amount of cores, and make sure to have six or more cores to effectively run a 3D modeling program, such as Solidworks, Spotify, and multiple Chrome windows. At the end of the day, you must compare processors to meet your budget, and the best website for processor comparisons is: https://cpu.userbenchmark.com/
+	There are five types of AMD processors: Ryzen 3, Ryzen 5, Ryzen 7, Ryzen 9, and Threadripper[6]. For intense 3D Modeling, you will need a six core Ryzen 5. A Ryzen 3 with four cores and a lower frequency of 4 GHz will work in the short-term, but as computers become more advanced, four core machines will become obsolete. Essentially, if you plan on using your laptop for the 4-5 years you are at Georgia Tech, you should get a six core Ryzen 5. Please refer to the following chart about the different Ryzen processors. Remember: when picking out a processor, look at the cores, not the threads, as the threads can be computed as 2*(# of cores).
+	For the following naming scheme description, please refer to this example: Ryzen 5 3600X. The Ryzen naming scheme is pretty similar to Intel's, in being that the first number will be a 3, 5, or 7, to denote the type of processor. The second number (3) tells you the generation of the processor, with higher usually being better, and the fourth number tells you the "performance level" of the processor, also with higher being better[8]. The final two numbers, which are usually 00, represent the SKU model number. For the final letter suffix, please refer to the following chart[9]:
+	The processor will also come with a certain amount of cores, and make sure to have six or more cores to effectively run a 3D modeling program, such as Solidworks, Spotify, and multiple Chrome windows. At the end of the day, you must compare processors to meet your budget, and the best website for processor comparisons is: https://cpu.userbenchmark.com/
+	Laptop manufactures often exaggerate the battery life of their laptops, so make sure to watch YouTube videos (don't read Amazon comments because they might be fake) about the laptop you want to buy. As long as the battery last six or more hours, it should be fine, as there are power outlets around Georgia Tech.
+	Also, know that laptop batteries can degrade over time. Still, there are some things you can do to extend the usable life of your battery.
+	Many processors come with integrated graphics, such as Intel's Iris XE graphics and AMD's Radeon graphics. These graphics units come with the processor, and are suitable for basic apps like Chrome, Discord, and Spotify. But, if you are an engineering major that will be using SolidWorks or Autodesk, you will need a dedicated graphics card, which means the graphics card is separate from the processor. The main producer of dedicated graphics cards is NVIDIA, and their two most prevalent lines are GTX and RTX. There are also NVIDIA MX graphics cards, such as the MX450, but those will struggle with most gaming and 3D Modeling programs such as Solidworks.
+	The GTX graphics cards are the cheaper of the two, which are usually in laptops around $1000, and the RTX are the top-of-the-line cards, which usually are overkill for most gaming and 3D modeling applications. GTX and RTX graphics cards are arranged by numbers, with the larger number equaling a better graphics card. To run 3D modeling programs, make sure to buy a graphics card equal to or better than the GTX 1050-Ti. Please refer the to the following website to see the relative levels of performance for each graphics card. https://gpu.userbenchmark.com/
+	According to Discord boomers, in beginning engineering classes, you only need 8GB or 12GB of RAM to do basic programming, CADing, and web browsing. As you move into your third and fourth year, and classes become more specialized, you will need at least 16GB of RAM to manage large assemblies in CAD and run other programs at the same time. If you plan to upgrade your RAM half-way through Georgia Tech, make sure the laptop you buy has non-soldered, easily accessible RAM, to make it easier to upgrade. Unless you are a computer-guru, just go with a 16GB RAM option, so you don't have to mess with the internals of your laptop.
+	The one exception to this rule is for Computer Science majors. It is effectively required to get 16 GB of RAM if you are planning to get a new machine, because you will most likely be running at least one VM for either a class or a club, and good VM performance is highly dependent the amount of RAM allocated to the virtual machine.
+	An SSD (Solid State Drive) is a drive with no moving parts, while an HDD (Hard Disk Drive) is a drive with moving parts. These drives store files and programs in your computer, and they are where your documents, downloads, pictures, and videos are stored. Generally, an SSD is usually faster and quieter than its counterpart, the HDD, because an SSD does not have moving parts. Most laptops either come with a 256GB, 512GB, or 1TB drive. Most people opt to purchase a laptop with 512GB or 1TB of storage, so they have enough room for files, games, and programs.
+	Make sure your laptop has 802.11ax WIFI, more commonly known as WIFI 6. Devices with WIFI 6 will operate better in dense WIFI systems, as it will get premium access to public WIFI routers compared to devices with WIFI 5[10]. Because WIFI 5 is the "old' technology, many laptop manufacturers are selling their WIFI 5 laptops at discounts, so make sure to look for 802.11ax or WIFI 6 in the product name.
+	While most students don't have a portable monitor, it can be extremely helpful for CADing/Programming and using Chrome at the same time. The main consideration with picking out an extra monitor is making it as similar as possible to your laptop's screen.
+	As with laptops, monitors have their own lingo to describe them, so here are some common measurements to describe a monitor:
+	In conclusion, IPS monitors are the best for daily use and cost. This is because for group work, people can sit to the right an left of you, and view a non-distorted image, and the image quality will be sufficient enough to see small details in 3D modeling. I personally just purchased the ASUS MB168B, which has a 1920x1080 IPS display, and it is excellent for CADing with assemblies with 1000+ parts. Here is the link for that monitor[12]. Above all, don't buy a random, cheap monitor that has less than 500 reviews on Amazon, because it might work great for a year, and then break. It is much better to spend an extra $40 to have a monitor from a main brand, like ASUS, that can be troubleshooted easily.
+Bullet Points:
+	- 1 Mac or PC?
+	- 2 Which size laptop?
+	- 3 Gaming Laptop or Business/Personal Laptop?
+	- 4 Which Brand of Laptop?
+	- 5 Intel or AMD Processor?
+	- 6 Which Intel Processor?
+	- 7 Which AMD Processor?
+	- 8 Battery Life?
+	- 9 Which NVIDIA Graphics Card?
+	- 10 How Much RAM?
+	- 11 SSD or HDD?
+	- 12 802.11ac or 802.11ax WIFI?
+	- 13 Monitors
+	- 14 References
+Bullet Points:
+	- 15" Monitor - A 15" monitor means the distance from the top right corner to the bottom left corner will be 15"
+	- 1920x1080 - This means the screen has 1,920 pixels horizontally, and 1,080 pixels vertically
+	- 60 FPS - A screen with a 60 FPS refresh rate means that the screen will refresh 60 times per second. This is the minimum refresh rate that a monitor should be.
+	- Panel Type: Please see the following table for the pros and cons of each type: TN, VA, IPS, and OLED.
+Table:
+	Suffix	|	Meaning
+	G1-G7	|	Graphics level, G1 being the lowest, G7 is the highest
+	E	|	Embedded
+	F	|	Requires discrete graphics
+	G	|	Includes discrete graphics on package
+	H	|	High performance optimized for mobile
+	HK	|	High performance optimized for mobile, unlocked
+	HQ	|	High performance optimized for mobile, quad core
+	K	|	Unlocked
+	S	|	Special edition
+	T	|	Power-optimized lifestyle
+	U	|	Mobile power efficient
+	Y	|	Mobile extremely low power
+	X/XE	|	Unlocked, High End
+Table:
+	Name	|	Cores	|	Threads	|	Frequency	|	Turbo Frequency
+	Ryzen 3	|	4	|	4	|	3.1 - 3.6 GHz	|	up to 4 GHz
+	Ryzen 5	|	4 - 6	|	8 - 12	|	3.1 - 3.8 GHz	|	up to 4.4 GHz
+	Ryzen 7	|	8	|	16	|	2.8 - 3.9 GHz	|	up to 4.5 GHz
+	Ryzen Threadripper	|	8 - 32	|	16 - 64	|	3 - 3.8 GHz	|	up to 4.5 GHz
+Table:
+	Suffix	|	Meaning
+	X	|	High Performance
+	G	|	DT with GFX
+	H	|	High Performance Mobile
+	U	|	Standard Mobile
+	GE	|	Low Power Mobile/Desktop APU
+	E	|	Low Power Desktop CPU
+	HS	|	High Performance 30W Mobile
+	HX	|	Highest Performance Overclockable Mobile
+Table:
+	Panel Type	|	Pros	|	Cons
+	TN	|	Fast Response Times, Low Input Lag, Cheap	|	Bad Viewing Angles, Bad Image Quality, Bad Colors
+	VA	|	Good Contrast, Good Colors, Cheap	|	Slightly Better Image Quality than TN, Slightly Better Viewing Angles than TN, Slightly Blurry
+	IPS	|	Good Image Quality, Good Viewing Angles, Good Colors	|	Slightly Expensive, Response Times can be slow
+	OLED	|	Best Contrast, Best Image Quality, Best Colors	|	Screen Burns Possible, Extremely Expensive, Rare

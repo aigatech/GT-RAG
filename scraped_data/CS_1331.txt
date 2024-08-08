@@ -1,0 +1,40 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_1331
+Title: CS 1331 - Introduction to Object-Oriented Programming
+Content:
+	CS 1331, formally known as Introduction to Object-Oriented Programming, is a 3-credit Computer Science class taken as a core requirement for College of Computing and Computer Engineering majors. It provides a detailed overview of programming using the Java programming language, going over syntactical details and computing principles not inherent with an extremely high-level programming language such as Python. It is immediately preceded by CS 1301, and immediately succeeded by CS 1332, CS 2110, and CS 2340.
+	Like most 1000-level CS classes, CS 1331 primarily consists of homework assignments and a set of exams. Some classes also have a participation component.
+	Homework assignments are non-practical (yet useful) programming exercises that allow the student to apply Java and OOP principles taught in class. A selection of the later homework assignments go over implementations of simple data structures and exceptions.
+	Exams test knowledge of Java syntax through multiple choice, fill-in-the-blank, matching, and free response questions. Due to the nature of the class and how it attempts to assess Java knowledge, exams are known to be a bit on the pickier side and are generally not forgiving.
+	
+	As of Spring 2021, the topic list is as follows:
+	As CS 1331's direct prerequisite is CS 1301, CS 1301 expects basic programming skills in any language. Emphasis is placed on knowing basic programming concepts such as functions, variables, loops, and decision making. While CS 1331 does go over these topics in the context of Java, it does go over it at a much brisker pace.
+	CS 1331 is one of the most important classes for CS majors. It serves as a prerequisite for CS 1332, which is an important core CS class, CS 2110, the first class of the Systems and Architecture Thread chain, and CS 2340, another important core CS class. Many of these classes are even more embedded in longer prerequisite chains for other threads, and thus, completing CS 1331 as soon as possible is critical.
+	Computer Engineers, while not having many classes that use CS 1331 as a prerequisite, still need to take CS 1331 as soon as possible, especially if they decide to select a CS thread.
+	CS 1331 is NOT a linked course. You thus only need to register for a lecture section (e.g. A, B, C).
+	However, there exists an optional second component: Recitation. You have the option (although its strongly recommended) to register for a corresponding recitation section with the same section but with the 1331R course number (e.g. lecture section: 1331 A will have recitation section 1331R A01, A02, etc.). The recitation is optional, but since attendance is voluntary, it is recommended that you sign up for it.
+	The course also has a placement test that you can take before the semester begins to test out, known as an ASE. The College of Computing will have more details every July, October, and March about this exam.
+	At least one of the following:
+	CS 1331 2019 Website (Unavailable)
+CS 1331 Spring 2021 Section A Website
+Bullet Points:
+	- 1 Workload
+	- 2 Topic List
+	- 3 Prerequisite Knowledge
+
+3.1 Programming
+	- 3.1 Programming
+	- 4 Future Outlook
+	- 5 Current Registration Info
+
+5.1 Prerequisites
+	- 5.1 Prerequisites
+	- 6 Resources
+Bullet Points:
+	- 3.1 Programming
+Bullet Points:
+	- 5.1 Prerequisites
+Bullet Points:
+	- 4 or Higher on the AP Computer Science A Exam
+	- C or Higher in CS 1301
+	- C or Higher in CS 1315
+	- C or Higher in CS 1371

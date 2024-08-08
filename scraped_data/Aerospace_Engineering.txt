@@ -1,0 +1,49 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Aerospace_Engineering
+Title: Aerospace Engineering
+Content:
+	Aerospace Engineering is a Bachelor's of Science program offered by the Georgia Institute of Technology. Located within the College of Engineering, one of the six major colleges that make up Georgia Tech, it is one of the most reputable aerospace engineering programs nationally and worldwide for both the undergraduate and graduate levels. As of the 2022-2023 US News and World Report, Georgia Tech is tied with MIT for the #1 best undergraduate aerospace program in the country [1].
+	The school of Aerospace Engineering offers an aerospace engineering minor for students that are not aerospace engineering majors.
+Table:
+	General Core
+	Course	|	Description
+	APPH 1040/1050/1060	|	Wellness (2)
+	ENGL 1101, 1102	|	English Composition I, II (6)
+	PHYS 2211, 2212	|	Physics I, II with lab (8)
+	CHEM 1310[2]	|	General Chemistry with Lab (4)
+	MATH 1551, 1552	|	Differential Calculus, Integral Calculus (6)
+	MATH 1553[3]	|	Linear Algebra Requirement (2)
+	History/Government[4]	|	History/Gov Requirement (3)
+	Economics[5]	|	COE Economics Requirement (3)
+	Humanities	|	Humanities Electives (6)
+	Social Sciences	|	Social Science Electives (6)
+	Free Electives	|	Free Electives (6)
+	General Engineering Courses
+	Course	|	Description
+	ME 1670	|	Introduction to Engineering Graphics and Design (3)
+	CS 1371	|	Computing for Engineers(2)
+	COE 2001	|	Statics (2)
+	COE 3001	|	Mechanics of Deformable Bodies (3)
+	MATH 2551	|	Multivariable Calculus (4)
+	MATH 2552	|	Differential Equations (4)
+	ECE 3710	|	Circuits and Electronics (2)
+	ECE 3741	|	Instrumentation and Electronics Lab (1)
+	Math Option[6]	|	Chosen from list of AE math options (3)
+	Aerospace Engineering Courses
+	Course	|	Description
+	AE 1601	|	Introduction to Aerospace Engineering (1)
+	AE 2010	|	Thermodynamics and Fluids Fundamentals (4)
+	AE 2220	|	Dynamics (3)
+	AE 2610	|	Intro to Experimental Methods (1)
+	AE 2611	|	Technical Communications (1)
+	AE 3330	|	Intro to AE Vehicle Performance (3)
+	AE 3030	|	Aerodynamics (4)
+	AE 3140	|	Structural Analysis (3)
+	AE 3340	|	Design and Systems Engineering Methods (2)
+	AE 3530	|	System Dynamics and Vibration (3)
+	AE 3531	|	Control System Analysis and Design (3)
+	AE 3610	|	Experiments in Fluid and Solid Mechanics (2)
+	AE 4531/4532	|	Aircraft/Spacecraft Flight Dynamics (3)
+	AE 4451	|	Jet and Rocket Propulsion (3)
+	AE 4341/4342/4343	|	Aircraft/Space System/Rotorcraft Design (3)
+	AE 4610	|	Dynamics and Control Lab (2)
+	AE Options	|	Courses from AE Options List (8)
