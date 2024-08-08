@@ -1,0 +1,23 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Category:Freshmen_Guide
+Title: Category:Freshmen Guide
+Content:
+	The Freshmen Guide includes pages that contain useful information for incoming freshmen and prospective students.
+	The following 10 pages are in this category, out of 10 total.
+Bullet Points:
+	- Computers and Monitors
+	- Core Requirements
+Bullet Points:
+	- Dining
+Bullet Points:
+	- FASET
+	- Freshmen FAQ
+Bullet Points:
+	- Housing
+Bullet Points:
+	- IGniTe
+Bullet Points:
+	- Mental Health
+Bullet Points:
+	- Other Student-Made Guides
+Bullet Points:
+	- Scheduling

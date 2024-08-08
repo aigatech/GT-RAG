@@ -1,0 +1,7 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Talk:Computers_and_Monitors
+Title: Talk:Computers and Monitors
+Content:
+	Hm, I wouldn't say that dual booting is slower, because it isn't. It just takes up more disk space, and of course you have to reboot to switch between operating systems. --Alexp (talk) 21:35, 23 May 2021 (EDT)
+	Ya oops I'm a windows guy - I meant the GT VMs, not Mac dual boot - Jonathan Stewart
+	Don't buy a computer based on the software, software can be changed. You can install any operating system in an VM or to dual boot. Even a chromebook can run linux. - MattPerry
+	Per: https://gt-student-wiki.org/mediawiki/index.php?title=Computers_and_Monitors&type=revision&diff=681&oldid=525

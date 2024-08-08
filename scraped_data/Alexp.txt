@@ -1,0 +1,244 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Special:Contributions/Alexp
+Title: User contributions
+Content:
+	(newest | oldest) View (newer 50  |  older 50) (20 | 50 | 100 | 250 | 500)
+	(newest | oldest) View (newer 50  |  older 50) (20 | 50 | 100 | 250 | 500)
+Bullet Points:
+	- 02:10, 24 February 2024
+diff hist  +157‎  m
+Other Student-Made Guides
+‎ →‎Websites and Documents
+current
+Tag: Visual edit
+	- 02:22, 4 January 2024
+diff hist  -6‎  m
+ISYE 2027
+‎ fix category and extra space
+	- 14:25, 21 December 2023
+diff hist  -2‎  m
+CS 2110
+‎ →‎Resources
+current
+Tag: Visual edit
+	- 14:25, 21 December 2023
+diff hist  +159‎  m
+CS 2110
+‎ Add resource link to LC-3
+Tag: Visual edit
+	- 14:23, 3 October 2023
+diff hist  +93‎  m
+User:Alexp
+‎
+current
+Tag: Visual edit
+	- 14:22, 3 October 2023
+diff hist  +146‎  m
+User:Alexp
+‎
+
+Tag: Visual edit
+	- 00:52, 27 August 2023
+diff hist  0‎  m
+Template:OSCAR REGISTRATION SEMESTER SECONDARY
+‎
+current
+	- 00:52, 27 August 2023
+diff hist  0‎  m
+Template:OSCAR REGISTRATION SEMESTER
+‎
+current
+	- 00:50, 27 August 2023
+diff hist  0‎  m
+Template:OSCAR REGISTRATION SEMESTER SECONDARY
+‎
+	- 00:50, 27 August 2023
+diff hist  0‎  m
+Template:OSCAR REGISTRATION SEMESTER
+‎
+	- 00:49, 27 August 2023
+diff hist  -1‎  m
+User:Alexp
+‎
+	- 00:48, 27 August 2023
+diff hist  0‎  m
+User:Alexp
+‎
+	- 00:47, 27 August 2023
+diff hist  -16‎ 
+Template:Course Links
+‎
+current
+	- 00:40, 27 August 2023
+diff hist  +582‎ 
+Template:Course Links
+‎ add comment explaining conditional logic
+	- 00:30, 27 August 2023
+diff hist  -2‎  m
+Template:OSCAR REGISTRATION SEMESTER NAME
+‎
+current
+	- 00:29, 27 August 2023
+diff hist  0‎  m
+Template:OSCAR REGISTRATION SEMESTER
+‎
+	- 00:28, 27 August 2023
+diff hist  0‎  m
+Template:OSCAR REGISTRATION SEMESTER SECONDARY
+‎
+	- 00:27, 27 August 2023
+diff hist  +52‎  m
+User:Alexp
+‎
+
+Tag: Visual edit
+	- 00:25, 27 August 2023
+diff hist  +989‎ 
+Template:Course Links
+‎ Prototype table for course links. Added some weird conditional logic for templates; need a way to signal whether registration info is open for new semesters or not (so we can show and hide the oscar links). Right now, if the registration semester (or secondary registration semester) are the same as the current one, they are ignored.
+	- 00:23, 27 August 2023
+diff hist  0‎  m
+Template:OSCAR REGISTRATION SEMESTER SECONDARY
+‎
+	- 00:22, 27 August 2023
+diff hist  +9‎  N
+Template:OSCAR REGISTRATION SEMESTER SECONDARY NAME
+‎ test
+current
+	- 00:21, 27 August 2023
+diff hist  +6‎  N
+Template:OSCAR REGISTRATION SEMESTER SECONDARY
+‎ test
+	- 23:58, 26 August 2023
+diff hist  +11‎  N
+Template:OSCAR REGISTRATION SEMESTER NAME
+‎ test
+	- 23:57, 26 August 2023
+diff hist  +6‎  N
+Template:OSCAR REGISTRATION SEMESTER
+‎ test
+	- 23:47, 26 August 2023
+diff hist  0‎ 
+Template:OSCAR CURRENT SEMESTER NAME
+‎
+current
+	- 23:36, 26 August 2023
+diff hist  0‎ 
+Template:OSCAR CURRENT SEMESTER
+‎ Update oscar current semester
+current
+	- 23:26, 26 August 2023
+diff hist  +140‎  m
+MSCS Computing Systems
+‎
+current
+Tag: Visual edit
+	- 23:19, 26 August 2023
+diff hist  +1‎ 
+CS 6290
+‎ Better to just redirect to the main course page, which is ECE 4100 i suppose
+current
+Tag: Redirect target changed
+	- 23:17, 26 August 2023
+diff hist  +21‎  N
+CS 6290
+‎ Create redirect to CS 4290, which eventually links to the ECE 4100 page
+Tag: New redirect
+	- 23:15, 26 August 2023
+diff hist  +1,156‎ 
+MSCS Computing Systems
+‎ add more electives
+	- 14:00, 26 August 2023
+diff hist  +1,114‎  N
+MSCS Computing Systems
+‎ Initial creation of MSCS Systems Specialization Page
+	- 16:06, 19 August 2023
+diff hist  +42‎  N
+User talk:Alexp
+‎ →‎Testing talk feature:  new section
+current
+	- 17:01, 3 January 2023
+diff hist  +113‎  N
+Talk:Computational Media
+‎ Created page with "Can the References be links (URLs)? --~~~~"
+current
+	- 02:16, 9 July 2022
+diff hist  +434‎ 
+Talk:Guidelines:Course Pages
+‎
+current
+	- 20:59, 30 May 2022
+diff hist  +149‎  m
+CS 1332
+‎ add resource
+current
+Tag: Visual edit
+	- 14:56, 16 May 2022
+diff hist  +89‎  m
+User:Alexp
+‎
+
+Tag: Visual edit
+	- 14:50, 16 May 2022
+diff hist  +1,334‎  N
+Talk:Mental Health
+‎ Proposal to remove Mental_Health#FAQ section over concerns about giving medical advice
+current
+	- 03:00, 15 May 2022
+diff hist  +110‎  N
+Talk:CS 4472
+‎ Created page with "I don't think we need to go into such detail into grading schemes / late policy. It's on the public webpage..."
+current
+	- 21:41, 13 May 2022
+diff hist  +57‎  m
+PHYS 2211
+‎ using template for current semester name
+current
+	- 21:40, 13 May 2022
+diff hist  +9‎  N
+Template:OSCAR CURRENT SEMESTER NAME
+‎ Created page with "Fall 2022"
+	- 21:39, 13 May 2022
+diff hist  0‎  m
+Template:OSCAR CURRENT SEMESTER
+‎ update current semester code for auto-generated OSCAR urls
+	- 21:22, 13 May 2022
+diff hist  -1‎  m
+CS 2110
+‎
+	- 21:13, 13 May 2022
+diff hist  +59‎  m
+GT Student Wiki:Privacy policy
+‎
+current
+	- 20:56, 13 May 2022
+diff hist  0‎  m
+MediaWiki:Sidebar
+‎ fix typo freshman --> freshmEn
+current
+	- 20:55, 13 May 2022
+diff hist  +94‎  m
+MediaWiki:Sidebar
+‎
+	- 20:53, 13 May 2022
+diff hist  +14‎  m
+MediaWiki:Sidebar
+‎
+	- 20:53, 13 May 2022
+diff hist  -6‎  m
+MediaWiki:Sidebar
+‎
+	- 20:51, 13 May 2022
+diff hist  +202‎  N
+MediaWiki:Sidebar
+‎ testing sidebar
+	- 20:17, 13 May 2022
+diff hist  +17‎  m
+ECE 4100
+‎ →‎Class Structure
+current
+Tag: Visual edit
+	- 20:14, 13 May 2022
+diff hist  +28‎  m
+CS 4290
+‎
+current

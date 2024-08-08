@@ -1,0 +1,96 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Contributing#Course_Pages
+Title: Contributing
+Content:
+	The guidelines for contributing to the GT Student Wiki provide a standard set of rules and conventions for all contributors to follow. Anyone may contribute to the wiki as long as they follow the guidelines.
+	The wiki should be easily readable and written in plain English. An informal style should be avoided, but language should not be excessive.
+	Do not use boldface or all caps for emphasis. Only italics should be used for emphasis, and emphasis should not be overused.
+	Single digit numbers should be written as words, while numbers above nine should be written as numerals, with exception for credit hours and ranges. Credit hours and ranges should always be written as numerals. For example, it should be stated that "most students will only have 2-5 tests a semester in each class", not "most students will only have two-five tests a semester in each class".
+	Do not use abbreviations, slang, or other informal terms unless they are specific to a Georgia Tech program. For example, using AE for aerospace engineering is acceptable, while using "prof" for professor is unacceptable. The first use of an acceptable abbreviation on a page must always be followed by its reference in parenthesis.
+	The use of links is important to the overall structure of the wiki. Internal links link to other pages in the wiki, including pages that have not been created yet, while external links link to pages not in the wiki.
+	Do not include consecutive links separated only by a space. This includes course names, which should not have their associated major and number linked separately. For example, instead of saying "MATH 2551 is a course required by math majors", say "MATH 2551 is a course required by math majors". Headers should never include links.
+	The first reference to another page on the wiki should always be linked, while subsequent references should not be linked unless absolutely necessary.  For example, if the MATH 1551 page states "This course is a prerequisite for MATH 1552, with MATH 1552 covering...", then only the first reference to MATH 1552 is linked. If a page does not exist yet, use a red link.
+	Always link to major pages unless referring specifically to a minor of the same name.
+	External links should be used only when necessary. Links to Georgia Tech-affiliated websites are preferred. If information from an external site can be organized better on the wiki, make sure to include a proper citation when inserting the information. Also, avoid using URL shorteners.
+	Every page must begin with a lead. A lead has no header and provides a short overview of the page. It should not exceed more than a few sentences, and the first sentence of a lead must include the name of the page in boldface close to its beginning.
+	Images may be used on any page, but they should be relevant and specific. Stock images are not allowed, while the usage of images taken on the Georgia Tech campus is encouraged. Also, since this wiki has integrations with Wikimedia, those images can be used too but make sure that they are topical.
+	The guidelines for references to faculty and copyrighted material ensure that the wiki maintains a serious tone.
+	Do not post negative reviews or rants about professors. Positive or neutral comments about professors are allowed, and you may also link to professors' Rate My Professors pages.
+	Avoid providing direct contact information concerning a subject; instead, link to the subject's personal or professional webpage if available.
+	Do not post previous or current course syllabi as they contain contact information of professors and teaching assistants (TAs).
+	Do not post or link to copyrighted material without permission. This includes but is not limited to pirated textbook links, current or previous assignments and assessments, etc. You may indicate the existence or non-existence of these resources, but do not mention where they are located.
+	If a syllabus is on a Georgia Tech website or a professor's course page, you may use it as long as a citation is provided. However, if the syllabus is on a 3rd-party page, such as a Google Drive link, Course Hero page, or GitHub repository, then do not link it. The Student Government Association is currently working with professors to create a repository of syllabi.
+	However, most syllabus info can be discussed under fair use, such as topics covered in a course, descriptions of projects in broad strokes, etc. The main purpose of these rules is just to prevent the dissemination of overly sensitive information such as the exact grading schemes of previous semesters.
+	All contributions must be consistent with Georgia Tech's honor code.
+	Some content may be subjective or vary in different contexts. For example, the workload in a course may differ depending on the professor. Do not remove or replace information unless it is objectively false; instead, try to incorporate the different contexts and perspectives in that section.
+	All pages with few exceptions should have a category. For example, course pages belong in the courses category, major pages belong in the majors category, etc. All categories must be linked to on the main page of the wiki to ensure that there are no floating pages in the wiki.
+	Talk pages may be used for discussion about pages; however; the wiki has a discord server to allow for real-time communication. Contributors tend to prefer the discord server for this reason.
+	The structure below should be used for most course pages.  The MATH 2551 page is an excellent example of a course page that follows this structure.
+	If the structure above does not fit well for a particular course page, then the page may be structured differently. However, make sure to have an organized format that includes all relevant information about the course.
+	The structure of major and minor pages may vary for now, but be sure to include information about the curriculum, clubs and organizations, common types of jobs, etc. The electrical engineering page is a good example of a well-designed major page.
+	Pages that primarily indicate useful information for freshmen or new students, such as the FASET page, belong in the freshmen guide category. Freshmen guide pages may have different structures, but be sure to include all relevant information about the topic.
+Bullet Points:
+	- 1 Grammar
+
+1.1 General
+1.2 Emphasis
+1.3 Numerals
+1.4 Abbreviations
+	- 1.1 General
+	- 1.2 Emphasis
+	- 1.3 Numerals
+	- 1.4 Abbreviations
+	- 2 Links
+
+2.1 General
+2.2 Internal Links
+2.3 External Links
+	- 2.1 General
+	- 2.2 Internal Links
+	- 2.3 External Links
+	- 3 Leads
+	- 4 Images
+	- 5 References to Faculty and Copyrighted Material
+
+5.1 Professors and Faculty
+5.2 Contact Information
+5.3 Copyrighted Material
+5.4 Honor Code
+	- 5.1 Professors and Faculty
+	- 5.2 Contact Information
+	- 5.3 Copyrighted Material
+	- 5.4 Honor Code
+	- 6 Subjective Content
+	- 7 Pages and Categories
+
+7.1 Page Discussion
+7.2 Course Pages
+7.3 Major and Minor Pages
+7.4 Freshmen Guide Pages
+	- 7.1 Page Discussion
+	- 7.2 Course Pages
+	- 7.3 Major and Minor Pages
+	- 7.4 Freshmen Guide Pages
+Bullet Points:
+	- 1.1 General
+	- 1.2 Emphasis
+	- 1.3 Numerals
+	- 1.4 Abbreviations
+Bullet Points:
+	- 2.1 General
+	- 2.2 Internal Links
+	- 2.3 External Links
+Bullet Points:
+	- 5.1 Professors and Faculty
+	- 5.2 Contact Information
+	- 5.3 Copyrighted Material
+	- 5.4 Honor Code
+Bullet Points:
+	- 7.1 Page Discussion
+	- 7.2 Course Pages
+	- 7.3 Major and Minor Pages
+	- 7.4 Freshmen Guide Pages
+Bullet Points:
+	- Use a third person point of view and complete sentences, including in bullet points. Separate sentences with only a single space.
+	- Use title case for headers and titles. Headers should be short and practical.
+	- Avoid using parentheses; instead, try to incorporate that information into the sentence itself.
+	- Never use contractions or ampersands unless they are part of a proper title, such as a course name.
