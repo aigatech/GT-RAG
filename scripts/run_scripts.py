@@ -3,6 +3,7 @@ from scrapers.simple_wiki_scraper import SimpleWikiScraper
 from scrapers.niche_scraper import NicheScraper
 from scrapers.usnews_scraper import USNewsScraper
 from scrapers.ratemyprofessors_scraper import RateMyProfessorsScraper
+from scrapers.gtwebscraper import GTWebsiteScraper
 
 def run_scrapers():
     """
@@ -15,7 +16,12 @@ def run_scrapers():
         ('https://simple.wikipedia.org/wiki/Georgia_Institute_of_Technology', SimpleWikiScraper),
         ('https://www.niche.com/colleges/georgia-institute-of-technology/', NicheScraper),
         ('https://www.usnews.com/best-colleges/georgia-institute-of-technology-1569', USNewsScraper),
-        ('https://www.ratemyprofessors.com/school/361', RateMyProfessorsScraper)
+        ('https://www.ratemyprofessors.com/school/361', RateMyProfessorsScraper),
+        ('https://www.gatech.edu/', GTWebsiteScraper),
+        ('https://news.gatech.edu/', GTWebsiteScraper),
+        ('https://admission.gatech.edu/', GTWebsiteScraper),
+        ('https://registrar.gatech.edu/', GTWebsiteScraper),
+        ('https://studentlife.gatech.edu/', GTWebsiteScraper)
     ]
 
     # Iterate over each URL and its corresponding scraper class
