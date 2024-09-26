@@ -29,6 +29,17 @@ class SimpleWikiScraper(BaseScraper):
         logging.info(f"Visiting: {url}")
         if url in self.visited_urls:
             return
+        if "Georgia_Institute_of_Technology" not in url \
+                or "Buzz_(mascot)" not in url \
+                or "Bobby_Dodd_Stadium" not in url \
+                or "Georgia_Tech" not in url \
+                or "Bobby_Dodd_Stadium" not in url \
+                or "G._Wayne_Clough" not in url:
+            return
+
+
+            logging.warning("URL does not contain georgia tech info")
+            return
 
         try:
             response = requests.get(url)
