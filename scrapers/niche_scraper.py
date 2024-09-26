@@ -30,6 +30,17 @@ class NicheScraper(BaseScraper):
         if url in self.visited_urls:
             return
 
+        if "georgia-institute-of-technology" not in url \
+                or "college-of-computing-georgia-institute-of-technology" not in url \
+                or "college-of-sciences-georgia-institute-of-technology" not in url \
+                or "georgia-tech-college-of-design" not in url \
+                or "georgia-tech-college-of-engineering" not in url \
+                or "ivan-allen-college-of-liberal-arts" not in url \
+                or "scheller-college-of-business" not in url:
+
+            logging.warning("URL does not contain georgia tech info")
+            return
+
         try:
             response = requests.get(url)
             response.raise_for_status()
