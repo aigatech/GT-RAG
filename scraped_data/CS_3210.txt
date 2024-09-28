@@ -1,0 +1,57 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_3210
+Title: CS 3210
+Content:
+	CS 3210, formally known as Design of Operating Systems, is a 3-credit Computer Science class taken as a thread requirement for Systems and Architecture threads (for both CS and CompE majors). It provides a deep dive into the structure, function, and design of the kernel of a modern Operating System. It is preceded by CS 2200/ECE 3058 and succeeded by CS 4210/CS 6210.
+	
+	CS 3210 is a CS class notorious for its extreme workload, especially for those with minimal experience in working with a kernel. The class, like most 3xxx and 4xxx level CS classes, are highly project based. Projects generally take well over 15 hours a week, and starting early, as well as asking for help, is encouraged.
+	As CS 2200/ECE 3058 is a direct prerequisite of CS 3210, the material in CS 2200 is highly important for success in the class. Extra importance is given to the Operating Systems and Networking topics from CS 2200, and these topics (especially the OS topics) are further developed in this class.
+	CS 2110 (or ECE 2035), while not a direct prerequisite for this class, is a prerequisite for CS 2200/ECE 3058 and an implied prerequisite for CS 3210. As the class is done in C for the majority of semesters, extensive experience in both C and assembly programming is required. Other computer architecture topics, such as the stack and interrupts, are also highly useful.
+	CS 3220, while not required or recommended, is suggested by some professors as a prerequisite for this course. It is however, not required, and taking CS 3210 before or with (although it will be an obscene amount of work!) CS 3220 is fine.
+	CS 3210 is a required class for Systems and Architecture Threads (both CS and CompE), and is generally taken in your third or fourth year. The class is only a prerequisite for Advanced Operating Systems (CS 4210/CS 6210) but is a gateway course to more advanced graduate level OS courses.
+	CS 3210 is a regular class. This means there is no recitation or lab to register for. Just register for a lecture section.
+	At least one of the following:
+	4 projects, 1 midterm, 1 final
+	Projects were on xv6, a simple Unix-like teaching operating system, with much of the class material from the associated open-source textbook.
+	xv6 is a simple teaching operating system with many features missing. In the class projects, you implement some of those missing features using the C programming language.
+	"Overall, the projects were time-consuming but fair. The material is really interesting, and detailed project instructions along with a concise textbook and helpful lectures/office hours made those projects doable." - Alex P
+	Apparently, the project was very difficult. It involved writing an OS kernel from scratch using the Rust programming language and testing it on a Raspberry Pi.
+	Publicly available course webpage
+Bullet Points:
+	- 1 Workload
+	- 2 Topics List
+	- 3 Prerequisite Knowledge
+
+3.1 Computer Systems
+3.2 Computer Organization
+3.3 Processor Design
+	- 3.1 Computer Systems
+	- 3.2 Computer Organization
+	- 3.3 Processor Design
+	- 4 Future Outlook
+	- 5 Registration
+
+5.1 Prerequisites
+	- 5.1 Prerequisites
+	- 6 Resources
+
+6.1 Fall 2020
+6.2 Spring 2020 "Rust-mester"
+	- 6.1 Fall 2020
+	- 6.2 Spring 2020 "Rust-mester"
+Bullet Points:
+	- 3.1 Computer Systems
+	- 3.2 Computer Organization
+	- 3.3 Processor Design
+Bullet Points:
+	- 5.1 Prerequisites
+Bullet Points:
+	- 6.1 Fall 2020
+	- 6.2 Spring 2020 "Rust-mester"
+Bullet Points:
+	- C or higher in CS 2200
+	- C or higher in ECE 3058
+Table:
+	CS 3210
+	Course Links
+	Course Critique
+	OSCAR Fall 2023

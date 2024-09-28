@@ -1,0 +1,29 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/PHYS_2211
+Title: PHYS 2211
+Content:
+	Physics 1 (Mechanics) is "A calculus-based course with a laboratory covering classical mechanics, applications of classical mechanics, oscillations, and waves."[1]
+	Classical: more calculus, recitation section (shorter lab period), generally considered more difficult than modern.
+	Modern: programming in Python (don't worry, it's pretty simple programming)
+	This is a linked course. However, the lecture section codes no longer correspond to the lab section codes. See the ME department guide (Fall 20) for an explanation.
+	For current info on which lectures correspond to which labs, read this OSCAR page (Fall 2023). For example, Section A said in Fall 2022:
+	You must also register for one of the following: PHYS 2211 Y01 - Y10
+	And so on for the other sections.
+	In addition, some sections are major-restricted or study abroad. Make sure to check the OSCAR page and/or the ME dept guide!
+	For the lecture sections, notice how they all include one time-block very late in the day. This is likely the test period, which will only meet a few times per semester. [TODO some1 confirm]
+	Labs use very basic Python, and tests occasionally ask for the Python equivalent of vector math.
+	Don't be intimidated by the programming, since it is relatively straightforward and you can ask for help from TAs and other students in labs.
+	If you are still concerned about Python, this website has tutorials which are extremely similar to your Physics labs.
+Bullet Points:
+	- 1 Overview
+
+1.1 Classical vs Modern
+	- 1.1 Classical vs Modern
+	- 2 Registration Information
+	- 3 Resources
+
+3.1 Modern Physics
+	- 3.1 Modern Physics
+Bullet Points:
+	- 1.1 Classical vs Modern
+Bullet Points:
+	- 3.1 Modern Physics

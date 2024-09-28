@@ -1,0 +1,40 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Special:Random
+Title: Course Template
+Content:
+	COURSE XXXX "is a..." "covers..." "also known as ___, ...", "is about ..." Basically, just write a 1-3 sentence blurb to introduce what the course is.
+	This is where you can talk about the class structure. Is it lecture or project heavy? Are there labs or in-class discussions? Is most of the workload from homework, or studying for exams?
+	Please refrain from discussing exact grading schemes, as professors need some leeway in changing things semester after semester.
+	What knowledge/techniques/skills do you need to know for this class? If there are formal prerequisites, how much material do you actually need from those courses? Are there also things outside of those prerequisites that helped you / would have helped you with this course?
+	Talk about scheduling information here. Is there a linked lab you have to register for? How about an optional recitation?
+	Add any tips or tricks about the actual registration process.
+	Useful resources go here. Some examples: public course webpages, a former TA's YouTube playlist of review videos, helpful online tutorials.
+	Now that we are at the end of the page, you can be a bit more anecdotal and talk about your experiences in specific semesters. Just put each semester under a subheading like this:
+	However, please refrain from talking about specific grading schemes or dumping on professors -- that's what RateMyProfessor is for!
+Bullet Points:
+	- 1 Topic List
+	- 2 Class Structure
+	- 3 Prerequisite Knowledge
+	- 4 Registration
+
+4.1 Equivalent Courses (optional)
+	- 4.1 Equivalent Courses (optional)
+	- 5 Resources
+	- 6 Previous Semesters (optional)
+
+6.1 Fall 2020
+	- 6.1 Fall 2020
+Bullet Points:
+	- 4.1 Equivalent Courses (optional)
+Bullet Points:
+	- 6.1 Fall 2020
+Bullet Points:
+	- This is where you can introduce the main topics of the course
+You can add subtopics here
+	- You can add subtopics here
+	- You can consult a syllabus to remind yourself of a topic list
+	- Please keep this section short: if it can't fit on a 1080p screen, it's too long!
+Bullet Points:
+	- You can add subtopics here
+Bullet Points:
+	- List equivalent courses if there are any
+	- For example, honors versions, cross-listed courses with other majors, or courses that fulfill the same graduation requirement for some or all majors

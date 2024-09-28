@@ -1,0 +1,144 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Thread_(Computer_Science)
+Title: Thread (Computer Science)
+Content:
+	Like Electrical and Computer Engineering, Computer Science offers eight distinct threads, which act as specializations. Majors must complete two threads + the core and major requirements to graduate. CS minors must select one thread and complete the minor core requirements (these do not include MATH requirements or some intro CS classes). Each thread combination also dictates the number of free electives a student must take in order to graduate.
+	Take CS 2110:
+	Take CS 2200:
+	Unsure → take CS 3210:
+	Take CS 2050/CS 2051/MATH 3012:
+	Take CS 3510/CS 3511:
+	Take CS 3600:
+	Take CS 4510:[Note 4]
+	Take MATH 3012:
+	Stage 1 - Take CS3001 and PSYC1101
+	LIKE BOTH → Consider people
+	LIKE ONE → Consider people, but choose thread picks carefully
+	HATE BOTH → Probably not, unless really enjoy CS 3750
+	Stage 2 - Take CS 3750/CS3783.
+	LIKE → Probably take People/Media.
+	Stage 3 - Take MATH 3670 sooner rather than later allowing you to take PSYC 2015 sooner.
+	LIKE 2015 → Definitely people.
+	1. Take PSYC 2210/PSYC 2760/PSYC 3040 depending on what you liked in PSYC 1101 and PSYC 2015
+	2. Choose thread picks based on preference between CS 3750 topics vs PSYC 1101/2015 vs CS 3001 topics.
+	Liked PSYC 1101/2015 More - Consider CS 3790, CS 4472, CS 4460
+	Liked CS 3750 More - Consider CS 4470, CS 4605
+	CS 4660, CS 4745 are a bit of a wild card
+	Take MATH 1554
+	LIKE --> Media could be for you (esp if you liked Homogeneous Coordinates)
+	HATE --> Definitely not Media
+	Take CS 2261 or CS 2110
+	LIKE 2261 --> Media is very probably for you
+	HATE 2261 --> Likely not Media
+	LIKE 2110 GBA Project --> Media may well be for you
+	HATE 2110 GBA Project --> Unclear
+	Take CS 3451 - choose thread picks on comparison of 3451 and 2261.
+	Like 3451 more than 2261:
+	Like 2261 more than 3451:
+	Take CS 2051:
+Bullet Points:
+	- 1 Thread List
+	- 2 How to Choose your Thread
+
+2.1 Systems and Architecture
+
+2.1.1 Systems and Architecture Advanced Elective
+
+
+2.2 Theory
+
+2.2.1 Theory Advanced Math Elective
+
+
+2.3 People
+
+2.3.1 People Upper Level
+
+
+2.4 Media
+
+2.4.1 Media Upper Level
+
+
+2.5 Honors Courses
+	- 2.1 Systems and Architecture
+
+2.1.1 Systems and Architecture Advanced Elective
+	- 2.1.1 Systems and Architecture Advanced Elective
+	- 2.2 Theory
+
+2.2.1 Theory Advanced Math Elective
+	- 2.2.1 Theory Advanced Math Elective
+	- 2.3 People
+
+2.3.1 People Upper Level
+	- 2.3.1 People Upper Level
+	- 2.4 Media
+
+2.4.1 Media Upper Level
+	- 2.4.1 Media Upper Level
+	- 2.5 Honors Courses
+	- 3 Notes
+Bullet Points:
+	- 2.1 Systems and Architecture
+
+2.1.1 Systems and Architecture Advanced Elective
+	- 2.1.1 Systems and Architecture Advanced Elective
+	- 2.2 Theory
+
+2.2.1 Theory Advanced Math Elective
+	- 2.2.1 Theory Advanced Math Elective
+	- 2.3 People
+
+2.3.1 People Upper Level
+	- 2.3.1 People Upper Level
+	- 2.4 Media
+
+2.4.1 Media Upper Level
+	- 2.4.1 Media Upper Level
+	- 2.5 Honors Courses
+Bullet Points:
+	- 2.1.1 Systems and Architecture Advanced Elective
+Bullet Points:
+	- 2.2.1 Theory Advanced Math Elective
+Bullet Points:
+	- 2.3.1 People Upper Level
+Bullet Points:
+	- 2.4.1 Media Upper Level
+Bullet Points:
+	- LIKE → declare either Modeling and Simulation, Systems and Architecture, Devices, or Information Internetworks.[Note 1]
+	- DISLIKE → definitely do not declare any of the threads above.
+Bullet Points:
+	- LIKE → declare either Systems and Architecture, Devices, or Information Internetworks based on preference.
+	- DISLIKE → either keep Modeling and Simulation for fewer requirements or declare another thread.[Note 2]
+Bullet Points:
+	- Enjoy pipelining, caches, and multithreading → take CS 4290.
+	- Enjoy multithreading, virtual memory, and scheduling → take CS 4210 (requires CS 3210).[Note 3]
+Bullet Points:
+	- LIKE → take CS 4210.
+	- DISLIKE → take CS 4290.
+Bullet Points:
+	- LIKE → declare Theory or Intelligence
+	- DISLIKE → definitely do not declare Theory
+Bullet Points:
+	- LIKE → declare Theory or Intelligence.
+	- DISLIKE → definitely do not declare Theory.
+Bullet Points:
+	- LIKE → continue with Intelligence
+	- DISLIKE → definitely do not declare Intelligence
+Bullet Points:
+	- LIKE → declare Theory.
+	- DISLIKE → do not declare Theory.
+Bullet Points:
+	- Enjoy generating functions and recurrence relations → take MATH 4032.
+	- Enjoy graphs → take MATH 4022.
+	- Enjoy generating functions, recurrence relations, and graphs → take MATH 4032 or MATH 4022.
+	- Dislike generating functions, recurrence relations, and graphs but enjoy cryptography → take MATH 4150.
+Bullet Points:
+	- CS 4480 Digital Video Special Effects
+	- CS 4496 Computer Animation
+Bullet Points:
+	- CS 4455 Video Game Design and Programming
+Bullet Points:
+	- LIKE → take CS 3511 and the CS 4510 honors section if possible.
+	- DISLIKE → do not take another honors class.
+	- UNSURE → take another honors class.

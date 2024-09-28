@@ -1,0 +1,38 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Systems_and_Architecture
+Title: Systems and Architecture
+Content:
+	The Systems and Architecture thread is one of the eight threads available to undergraduate Computer Science majors and minors. It is also one of the three CS threads for Computer Engineering majors.
+	The Systems and Architecture thread is akin to, but not entirely similar to, Computer Engineering in that sense, as it explores the pragmatic low-level principles of computing, such as operating systems, processors, compilers, and computer networks. Along with the Theory thread, it can be considered as Computer Science in its purest form. Thread topics include courses in computer organization and systems, digital design, operating system and processor design, advanced computer organization and system concepts, as well as a course on algorithm design to round out the thread.
+	For majors who decide to do Systems and Architecture as one of their two CS threads, the requirements are below:
+	For majors who decide to do Systems and Architecture as their non CompE thread, the requirements are below:
+	For non-majors who elect to do the Computing and Systems/Architecture minor, the requirements are below:
+	Before announcing your intention to declare the minor, you must take and pass CS 1331 with a B or higher. Else, you will not be allowed to continue in, or declare, the minor.
+Table:
+	Degree Requirements
+	Course	|	Description
+	CS 2110	|	Computer Organization and Programming (4)
+	CS 2200	|	Computer Systems and Networks (4)
+	CS 3210	|	Design of Operating Systems (3)
+	CS 3220	|	Codesign of a Processor (3)
+	CS 3510/3511	|	Algorithms Requirement (3)
+	CS 3300 or CS 4240	|	Systems Software Tools Requirement (3)
+	CS 4210 or CS 4220 or CS 4290	|	Advanced Systems & Architecture Requirement (3)
+	ECE 2031	|	Digital Design Laboratory (2)
+Table:
+	Degree Requirements
+	Course	|	Description
+	CS 2340	|	Objects and Design (3)
+	CS 3210	|	Design of Operating Systems (3)
+	CS 3220	|	Codesign of a Processor (3)
+	CS 4210 or CS 4220 or ECE 4100	|	Advanced Systems & Architecture Requirement (3)
+	CS 3510/3511	|	Algorithms Requirement (3)
+	CS 3300 or CS 4240	|	Systems Software Tools Requirement (3)
+Table:
+	Minor Requirements
+	Course	|	Description
+	CS 1331	|	Introduction to Object Oriented Programming (3)
+	CS 2110	|	Computer Organization and Programming (4)
+	CS 2200	|	Computer Systems and Networks (4)
+	CS 3210	|	Design of Operating Systems (3)
+	CS 3220	|	Codesign of a Processor (3)
+	Systems & Architecture Minor Elective	|	Systems and Architecture Minor Elective (3)

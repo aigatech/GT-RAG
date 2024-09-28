@@ -1,0 +1,82 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Thread
+Title: Thread
+Content:
+	A thread is a specialization within several majors or minors at Georgia Tech, such as Computer Science, Electrical Engineering, and Computer Engineering.
+	A Computer Science major must take two of the eight available threads to fulfill degree requirements.[1]
+	The eight threads are:
+	For Computer Science, Information Internetworks is the most popular thread, followed by Intelligence, as of 2017.[2]
+	A Computational Media major must take one thread from the College of Computing, and one thread from either the Ivan Allen College of Liberal Arts or the College of Design.
+	The three CS threads available are:
+	The four threads offered jointly by the Ivan Allen College and the College of Design are:
+	More information is available here: https://cm.lmc.gatech.edu/degree-requirements/
+	LMC students can choose from the following list of threads:
+	More information is available here: https://www.lmc.gatech.edu/programs/bs-lmc
+	An Electrical Engineering or Computer Engineering must choose two threads to fulfill degree requirements. Threads were adopted in the School of Electrical and Computer Engineering in summer 2021.
+	Computer Engineering students can choose from the following list of threads:
+	More information is available here: https://www.ece.gatech.edu/computer-engineering-degree
+	Electrical Engineering students can choose from the following list of threads:
+	More information is available here: https://www.ece.gatech.edu/electrical-engineering-degree
+Bullet Points:
+	- 1 College of Computing
+
+1.1 Computer Science
+1.2 Computational Media
+	- 1.1 Computer Science
+	- 1.2 Computational Media
+	- 2 School of Literature, Media, and Communication
+	- 3 School of Electrical and Computer Engineering
+
+3.1 Computer Engineering
+3.2 Electrical Engineering
+	- 3.1 Computer Engineering
+	- 3.2 Electrical Engineering
+Bullet Points:
+	- 1.1 Computer Science
+	- 1.2 Computational Media
+Bullet Points:
+	- 3.1 Computer Engineering
+	- 3.2 Electrical Engineering
+Bullet Points:
+	- Devices: programming for embedded devices
+	- Information Internetworks: representing and transmitting information
+	- Intelligence: artificial intelligence, machine learning, computer vision
+	- Media: information visualization, video game development, new media
+	- Modeling and Simulation: high-performance computing, modeling complex systems and phenomena
+	- People: user experience research, human-computer interaction, product design
+	- Systems and Architecture: computer operating systems, compilers, languages
+	- Theory: theoretical computer science
+Bullet Points:
+	- Intelligence: artificial intelligence, machine learning, computer vision
+	- Media: information visualization, video game development, new media
+	- People: user experience research, human-computer interaction, product design
+Bullet Points:
+	- Interaction Design: visual design, interactive systems, design capstone
+	- Film and Media Studies: film history, narrative development, critical media analyses
+	- Games: game studies, game development, digital art, interactive narratives
+	- Music Technology: recording and mixing, audio technology, sound design, composition
+Bullet Points:
+	- Literature
+	- Media (LMC)
+	- Communication
+	- Design
+	- Social Justice
+	- Science, Technology, and Culture (STAC)
+Bullet Points:
+	- Distributed System & Software Design (CompE)
+	- Cybersecurity (CompE)
+	- Computing Hardware & Emerging Technologies (CompE)
+	- Devices (CS)
+	- Information Internetworks (CS)
+	- Systems and Architecture (CS)
+	- Robotics (EE)
+	- Telecommunications (EE)
+	- Signal and Information Processing (EE)
+Bullet Points:
+	- Signal & Information Processing
+	- Robotics
+	- Bioengineering
+	- Telecommunications
+	- Sensing & Exploration
+	- Electric Energy Systems
+	- Electronic Devices
+	- Circuit Technology

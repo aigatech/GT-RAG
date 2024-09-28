@@ -1,0 +1,77 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Chemical_and_Biomolecular_Engineering
+Title: Chemical and Biomolecular Engineering
+Content:
+Bullet Points:
+	- 1 Overview
+	- 2 Degree Requirements
+
+2.1 Standard Option
+2.2 Biotechnology Option
+	- 2.1 Standard Option
+	- 2.2 Biotechnology Option
+Bullet Points:
+	- 2.1 Standard Option
+	- 2.2 Biotechnology Option
+Table:
+	General Core
+	Course	|	Description
+	APPH 1040/1050/1060	|	Wellness
+	ENGL 1101,1102	|	English Composition I, II
+	MATH 1551, 1552, 2551	|	Differential, Integral, Multivariable Calculus
+	MATH 1553	|	Linear Algebra
+	MATH 2552	|	Differential Equations
+	CS 1371	|	Computing for Engineers
+	PHYS 2211, 2212	|	Introductory Physics I, II
+	CHEM 1211K OR 1310	|	Chemical Principles I OR General Chemistry
+	BIOS 1107, 1107L	|	Biological Principles
+	CHEM 2380	|	Synthesis Lab I
+	Humanities Elective	|	6 hours.[1]
+	History/Government Elective	|	3 hours.[2]
+	Social Studies Elective	|	6 hours.[3]
+	Economics Elective	|	3 hours.[3]
+Table:
+	Major Requirements[4]
+	Course	|	Description
+	CHBE 2100	|	Chemical Process Principles
+	CHBE 2120	|	Numerical Methods in Chemical Engineering
+	CHBE 2130, 3130	|	Chemical Engineering Thermodynamics I and II
+	CHBE 3200, 3210	|	Transport Process I and II
+	CHBE 3225	|	Separations Processes
+	CHBE 4200	|	Transport Phenomena/Unit Operations Lab
+	CHBE 4300	|	Kinetics and Reactor Design
+	CHBE 4411, 4412	|	Process Dynamics and Control and Lab
+	CHBE 4510	|	Process and Product Design and Economics
+	CHBE 4515	|	Chemical Process Safety
+	CHBE 4520	|	Capstone Design
+	CHEM 1212K	|	Chemical Principles II
+	CHEM 2311	|	Organic Chemistry I
+	CHEM 2312 OR CHEM 2313	|	Organic Chemistry II OR Organic and Bioorganic Chemistry
+	MSE 2001	|	Principles and Applications of Engineering Materials
+	2000-level Engineering Elective or higher	|	3 hours.
+	3000-level Engineering Elective or higher	|	3 hours.
+	CHBE Electives	|	6 hours.
+	CHEM Electives	|	6 hours.
+	Free Electives	|	3 hours.
+Table:
+	Major Requirements[5]
+	Course	|	Description
+	CHBE 2100	|	Chemical Process Principles
+	CHBE 2120	|	Numerical Methods in Chemical Engineering
+	CHBE 2130, 3130	|	Chemical Engineering Thermodynamics I and II
+	CHBE 3200, 3210	|	Transport Process I and II
+	CHBE 3225	|	Separations Processes
+	CHBE 4200	|	Transport Phenomena/Unit Operations Lab
+	CHBE 4300	|	Kinetics and Reactor Design
+	CHBE 4411, 4412	|	Process Dynamics and Control and Lab
+	CHBE 4510	|	Process and Product Design and Economics
+	CHBE 4515	|	Chemical Process Safety
+	CHBE 4530	|	Capstone ChBE Bio-Design
+	CHEM 1212K	|	Chemical Principles II
+	CHEM 2311	|	Organic Chemistry I
+	CHEM 2312 OR CHEM 2313	|	Organic Chemistry II OR Organic and Bioorganic Chemistry
+	CHEM 4511, 4512	|	Biochemistry I and II
+	MSE 2001	|	Principles and Applications of Engineering Materials
+	BIOS 3450	|	Cell and Molecular Biology
+	CHBE Electives	|	3 hours.
+	Biotechnology Elective	|	3 hours.
+	Free Electives	|	3 hours.

@@ -1,0 +1,41 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Computational_Media
+Title: Computational Media
+Content:
+	Computational Media (CM) is a Bachelor's of Science program offered by the Georgia Institute of Technology. It is a joint offering from the College of Computing and School of Literature, Media, and Communications, that is designed to "provide a thorough education in all aspects of the computer as a medium: the technical, the historical-critical, and the applied [1]." Although CM is one of the newer and smaller undergraduate programs to be offered by Georgia Tech, having started with only one student in 2004 [2], it is now nationally recognized within its own right, with its video game design course being ranked #3 in the nation according to the 2022-2023 U.S. News & World Report [3].
+	For more information on degree requirements, Junior Design Capstone options, and threads, see CM Degree Requirements.
+	The Computational Media course structure is most similar to Computer Engineering's in nature; students are required to choose a thread, or specialization, in two different disciplines.  Students who major in Computational Media have to choose from one of three threads from the Computer Science program: Intelligence, People, or Media, and either Music Technology or one of three threads from the Literature, Media, and Communications program: Interaction Design (formerly Experimental Media and Interaction Design), Game Studies, or Film and Media Studies [5].
+	Computer Science (CS) Threads
+	* In lieu of CS 4510 (Automata and Complexity Theory), CM majors take another specialized class, as they are neither required to take MATH 3012 (Applied Combinatorics) nor any statistics course, both of which are prerequisites for CS 4510. For more information on CS threads, see Thread (Computer Science).
+	Literature, Media, and Communications (LMC) Threads
+	Music Technology
+	Students choose from one of the CS threads and either Music Technology or one of the LMC threads.
+	
+Bullet Points:
+	- 1 Degree Requirements
+	- 2 Threads
+	- 3 Thread List
+	- 4 References
+Table:
+	Degree Requirements [4]
+	Course	|	Description
+	CS 1100	|	Freshman Leap Seminar (1)
+	CS 1301 or CS 1315	|	Introduction to Computing or Introduction to Media Production (3)
+	CS 1331	|	Introduction to Object Oriented Programming (3)
+	CS 1332	|	Data Structures and Algorithms (3)
+	CS 2050/2051	|	Discrete Mathematics Requirement (3)
+	CS 2340	|	Objects and Design (3)
+	CS Ethics Course	|	Ethics/Professionalism Requirement (3)
+	LMC 2700	|	Introduction to Computational Media (3)
+	MATH 1551 and 1552	|	Calculus Requirement (6)
+	MATH 1554/1564	|	Linear Algebra Requirement (4)
+	MATH 2550	|	Introduction to Multivariable Calculus (2)
+	2 Lab Sciences (Non-sequential)	|	Lab Science Requirement (8)
+	ENGL 1101 and 1102	|	English Requirement (2)
+	Any Humanities Course	|	Humanities Requirement (3)
+	Any LMC Humanities Course	|	LMC Humanities Requirement (3)
+	One History/Government Requirement Class	|	History/Government Requirement (3)
+	9 credits of Social Science Classes	|	Social Science Requirement (9), requirements vary by thread combination
+	APPH 1040/1050/1060	|	Wellness Requirement (2)
+	Thread Requirements	|	Select a thread page below
+	Junior Design Capstone	|	Select one requirement (6)
+	Free Electives	|	Varies by thread combination and capstone selection

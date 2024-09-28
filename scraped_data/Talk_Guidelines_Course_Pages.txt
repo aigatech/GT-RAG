@@ -1,0 +1,11 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Talk:Guidelines:Course_Pages
+Title: Talk:Guidelines:Course Pages
+Content:
+	It might be a bit restricting to enforce the leading sentence with the "[Course Number] covers..." syntax. These below all seem fine to me, for example:
+	CS 4472/6470 - Design of Online Communities is a 3-credit hour course that seeks to explore the nature of online interactions, understand the structure of communities online, and provide a survey of research topics within the field.
+	CS 3451 - Computer Graphics is a 3-credit hour course that introduces students to fundamental concepts in digital image generation and manipulation.
+	CS 4460, formally known as Introduction to Information Visualization or Infovis for short, is a 3-credit hour Computer Science course about data visualization and interactivity.
+	--Wynslow (talk) 00:36, 9 July 2022 (EDT)
+	Agreed, I have a more lenient course template here: Course_Template
+	I also think we should encourage longer leads, maybe up to a few paragraphs until info needs to be put in subsections. Having only a few sentences looks empty, especially followed by the Table of Contents (and sometimes long topic lists) which makes it look like too much whitespace.
+	--Alexp (talk) 02:16, 9 July 2022 (EDT)

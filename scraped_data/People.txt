@@ -1,0 +1,26 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/People
+Title: People
+Content:
+	The People thread is one of the eight threads available to undergraduate Computer Science majors and minors.
+	The People thread examines the intersection between users and computer interfaces. Classes are centered around research methods developed through the disciplines of psychology, sociology, and user-centered design, with a focus in understanding how human behavior informs the design of usable and accessible systems. Courses tend to place less emphasis on coding and more emphasis on conducting research and prototyping systems of varying fidelity. This thread caters toward students who may be interested in user interface design, user experience research, product design, and human-computer interaction.
+	For computer science majors who decide to pursue People as one of their two threads, the requirements are below:
+	*CS 2261 may be taken instead of CS 2110 if the student elects to add Media as their second thread.[1]
+	**CS 3873 covers the same material as CS 3750, with a different format of shorter lectures and an addition of a two-hour design studio.[2] At the moment, CS 3750 is not offered.
+	For non-majors who decide to pursue the Computing and People minor, the requirements are below:
+	Before announcing your intention to declare the minor, you must take and pass CS 1301, CS 1315, or CS 1371 with a B or higher and CS 1331 with a B or higher.
+Table:
+	Degree Requirements
+	Course	|	Description
+	CS 2110 or CS 2261*	|	Media Architectures Elective (4)
+	PSYC 2015	|	Research Methods (4)
+	CS 3750 or CS 3873**	|	Human Computer Interface Design and Evaluation (3)
+	PSYC 2210 or PSYC 2760 or PSYC 3040	|	Social/Behavioral Science for Computing Elective (3)
+	CS 3790 or CS 4660 or CS 4460 or CS 4470 or CS 4472 or CS 4605 or CS 4745	|	Human-Centered Technology Electives (6, choose 2 classes)
+Table:
+	Minor Requirements
+	Course	|	Description
+	CS 1331	|	Introduction to Object-Oriented Programming (3)
+	CS 1332	|	Data Structures and Algorithms (3)
+	CS 2340	|	Objects and Design (3)
+	CS 3750 or CS 3873**	|	Human Computer Interface Design and Evaluation (3)
+	CS 3790 or CS 4660 or CS 4460 or CS 4470 or CS 4472 or CS 4605 or CS 4745	|	Human-Centered Technology Electives (6, choose 2 classes)

@@ -1,0 +1,66 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/ECE_4100
+Title: ECE 4100
+Content:
+	ECE 4100 "Advanced Computer Architecture" covers a variety of topics in computer architecture.
+	Topic list from Dr. Conte's Spring 2022 Syllabus:
+	This class covers many topics in a high level of detail, so paying attention in lecture is important for understanding the material.
+	Projects involve coding a simulator for a processor component using a design learned in class or from a paper. These are timing (not functional) simulations, so while the actual data can be ignored, the paths the data takes must be simulated. TAs usually provide the driver code and some sort of template.
+	These projects can be rather time consuming, often requiring hundreds of lines and lots of debugging. Because simulations are always slower than actual processors, they must be relatively efficient. With some professors, additional "experiments" sections are included, asking students to test their cache simulators on traces with millions of lines on ten thousand different cache configurations to find the most performant one. As a result, projects must be written in a low-level programming language such as C++ and students should be thoughtful about which data structures they use.
+	CS 2200 is a formal prerequisite. It introduces many topics such as pipelining, virtual memory, and networking which are covered in more detail in this course.
+	CS 3220 isn't a prerequisite, but it covers some of the same topics such as pipelining and branch prediction. These are taught using projects which are full functional simulations of an entire (simple) processor in hardware description languages such as Verilog. As a result, they don't go into quite as much complexity as in this course.
+	According to OSCAR/gt-scheduler.org, one of ECE 3056, ECE 3057, or ECE 3058 fulfills the formal prerequisite.
+	Regular lecture class. The class is cross-listed and students register for the course for their respective major.
+	OMSCS Course Page and Syllabi
+	OMSCS CS 6290 Course Videos
+	This course can be taught differently based on the professor. Some professors cover slightly different topics in different orders. Additionally, sometimes professors will teach an "extra" topic, which can vary by semester.
+Bullet Points:
+	- 1 Topic List
+	- 2 Class Structure
+	- 3 Prerequisite Knowledge
+
+3.1 CS Curriculum
+3.2 ECE Curriculum
+	- 3.1 CS Curriculum
+	- 3.2 ECE Curriculum
+	- 4 Registration
+
+4.1 Equivalent Courses
+	- 4.1 Equivalent Courses
+	- 5 Resources
+	- 6 Previous Semesters
+Bullet Points:
+	- 3.1 CS Curriculum
+	- 3.2 ECE Curriculum
+Bullet Points:
+	- 4.1 Equivalent Courses
+Bullet Points:
+	- Measuring Performance and Cost
+	- Caches
+	- Pipelines
+Branch prediction
+Out-of-Order Execution
+Tomasulo's algorithm
+	- Branch prediction
+	- Out-of-Order Execution
+Tomasulo's algorithm
+	- Tomasulo's algorithm
+	- Superscalar and VLIW
+	- Multiprocessors
+Cache Coherence
+Memory Consistency
+	- Cache Coherence
+	- Memory Consistency
+	- Synchronization
+	- Interconnection Networks
+Bullet Points:
+	- Branch prediction
+	- Out-of-Order Execution
+Tomasulo's algorithm
+	- Tomasulo's algorithm
+Bullet Points:
+	- Tomasulo's algorithm
+Bullet Points:
+	- Cache Coherence
+	- Memory Consistency
+Bullet Points:
+	- Cross-listed as CS 4290 and graduate-level equivalents ECE 6100 and CS 6290.

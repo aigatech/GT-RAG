@@ -1,0 +1,92 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_3451
+Title: CS 3451 - Computer Graphics
+Content:
+	CS 3451 - Computer Graphics is a 3 credit hour course that introduces students to fundamental concepts in digital image generation and manipulation. The Processing language (p5.js) and the OpenGL Shading Language (GLSL) are used to code projects. No prior knowledge of computer graphics is expected.
+	Computer Graphics is a required course for the Media thread. Most electives for the Media thread require CS 3451 as a prerequisite.
+	Grades in this course are heavily weighted toward individual projects. These projects require the student to implement a core concept in graphics.
+	Below is a list of projects assigned by Dr. Greg Turk for his Spring 2022 course:
+	Aside from the projects, there is also a midterm and a final exam.
+	Below is a topic list for Dr. Greg Turk's Spring 2022 course:
+	Alongside the topic list, a selection of special topics may be offered depending on student interest.
+	Below is a list of topics that were available to vote from in Spring 2022:
+	CS 3451 holds three 50-minute lectures a week. Office hours are available for assistance with project implementation.
+	No prior experience in computer graphics is expected for students taking CS 3451. Coding for most projects is done in Processing (p5.js), and GPU programming is done in GLSL (OpenGL Shading Language). Time is spent during lectures to introduce students to these languages.
+	Formal prerequisites for the course are CS 1332, CS 2340, CS 2110 (or an equivalent low-level programming course), and MATH 2551 (or an equivalent Calc III course).
+	Programming projects will involve implementation of data structures and algorithms discussed conceptually in class, such as polyhedral structures and ray tracing algorithms.
+	While Objects and Design is a formal prerequisite, nothing from CS 2340 is necessary for success in CS 3451.
+	Topics such as the Graphics Hardware Pipeline and GPU programming assume familiarity with computer organization and programming.
+	Common tasks will involve the three-dimensional manipulation of objects, rays, and cameras through code. Matrix transformations are used frequently throughout the entirety of the class.
+	This course is required for students pursuing the Media thread. Because CS 3451 is heavy with prerequisites, students should not expect to take this course until their junior or senior years. One should take into consideration that most Media thread electives require a passing grade in CS 3451.
+	No content
+Bullet Points:
+	- 1 Workload
+	- 2 Topic List
+	- 3 Class Structure
+	- 4 Prerequisite Knowledge
+
+4.1 CS 1332 - Data Structures and Algorithms
+4.2 CS 2340 - Objects and Design
+4.3 CS 2110 - Computer Organization and Programming (or equivalent)
+4.4 MATH 2551 - Multivariable Calculus (or equivalent)
+	- 4.1 CS 1332 - Data Structures and Algorithms
+	- 4.2 CS 2340 - Objects and Design
+	- 4.3 CS 2110 - Computer Organization and Programming (or equivalent)
+	- 4.4 MATH 2551 - Multivariable Calculus (or equivalent)
+	- 5 Scheduling
+	- 6 Resources
+Bullet Points:
+	- 4.1 CS 1332 - Data Structures and Algorithms
+	- 4.2 CS 2340 - Objects and Design
+	- 4.3 CS 2110 - Computer Organization and Programming (or equivalent)
+	- 4.4 MATH 2551 - Multivariable Calculus (or equivalent)
+Bullet Points:
+	- 1A - Transformation Matrices
+	- 1B - Projection and Line Drawing
+	- 2A - Object Modeling
+	- 2B - Animation
+	- 3A - Ray Tracing Cylinders
+	- 3B - Spheres, Shadows, and Reflections
+	- 4 - GPU Programming
+	- 5 - Dual Meshes
+Bullet Points:
+	- Introduction to Processing
+	- 2D Transformations
+	- Composition of Transformations
+	- Matrix Stack and Transformation Hierarchy
+	- Projections and Screen Mapping
+	- LCDs
+	- Line and Polygon Drawing
+	- Polygon Scan Conversion
+	- Hidden Surfaces
+	- Radiometry
+	- Color
+	- Surface Shading
+	- Interpolation for Shading
+	- Ray Tracing
+	- Ray Tracing Acceleration and Reflection
+	- Distribution Ray Tracing
+	- Shadows
+	- Texture Mapping (Mipmaps, Environment Maps, Bump Maps)
+	- Graphics Hardware Pipeline
+	- GPU Programming (OpenGL Shading Language)
+	- Representations of Polyhedra
+	- Bezier Curves
+	- Subdivision Surfaces
+	- Platonic Solids
+	- Fractals
+	- Volume Rendering
+Bullet Points:
+	- Anti-Aliasing
+	- Ray Marching for Fractals
+	- Inverse Kinematics
+	- Augmented and Mixed Reality
+	- Model Creation by 3D Laser Scanning
+	- Image Morphing
+	- Fluid Animation
+	- Particle Systems
+	- GPU Ray Tracing
+	- Flocking Animation
+	- Game Rendering Techniques
+	- Photoshop Algorithms
+	- Virtual Reality
+	- Character Animation

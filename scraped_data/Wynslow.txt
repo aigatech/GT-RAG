@@ -1,0 +1,254 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Special:Contributions/Wynslow
+Title: User contributions
+Content:
+	(newest | oldest) View (newer 50  |  older 50) (20 | 50 | 100 | 250 | 500)
+	(newest | oldest) View (newer 50  |  older 50) (20 | 50 | 100 | 250 | 500)
+Bullet Points:
+	- 21:16, 10 October 2022
+diff hist  +4‎ 
+EAS 1601
+‎
+current
+	- 21:16, 10 October 2022
+diff hist  +26‎  m
+EAS 1601
+‎
+	- 14:42, 10 October 2022
+diff hist  +5,431‎  N
+EAS 1601
+‎ Created EAS 1601 page
+Tag: Visual edit
+	- 14:22, 10 October 2022
+diff hist  +671‎  N
+College of Computing
+‎ Create stub page for College of Computing
+current
+Tag: Visual edit
+	- 14:18, 10 October 2022
+diff hist  +40‎  N
+Computing and Theory (Minor)
+‎ Redirect to general program page and add Minors category
+current
+Tags: Visual edit New redirect
+	- 14:18, 10 October 2022
+diff hist  +58‎  N
+Computing and Systems Architecture (Minor)
+‎ Redirect to general program page and add Minors category
+current
+Tags: Visual edit New redirect
+	- 14:17, 10 October 2022
+diff hist  +20‎  m
+Computing and Media (Minor)
+‎ Add Minors category
+current
+Tag: Visual edit
+	- 14:16, 10 October 2022
+diff hist  +20‎  m
+Computing and Information Internetworks (Minor)
+‎ Add Minors category
+current
+Tag: Visual edit
+	- 14:16, 10 October 2022
+diff hist  +20‎ 
+Computing and Intelligence (Minor)
+‎ Add Minors category
+current
+Tag: Visual edit
+	- 14:14, 10 October 2022
+diff hist  +19‎  N
+Computing and Media (Minor)
+‎ Redirecting Information Internetworks (Minor) to the general F&MS page since that page contains both minor and thread info
+Tag: New redirect
+	- 14:14, 10 October 2022
+diff hist  +26‎  N
+Computing and Intelligence (Minor)
+‎ Redirecting Intelligence (Minor) to the general F&MS page since that page contains both minor and thread info
+Tag: New redirect
+	- 14:13, 10 October 2022
+diff hist  +39‎  N
+Computing and Information Internetworks (Minor)
+‎ Redirecting Information Internetworks (Minor) to the general F&MS page since that page contains both minor and thread info
+Tag: New redirect
+	- 14:12, 10 October 2022
+diff hist  +36‎  N
+Film and Media Studies (Minor)
+‎ Redirecting Film and Media Studies (Minor) to the general F&MS page since that page contains both major, minor, and thread info
+current
+Tag: New redirect
+	- 14:10, 10 October 2022
+diff hist  +29‎  N
+Minor
+‎ Redirect Minor to the Minors category
+current
+Tags: Visual edit: Switched New redirect
+	- 14:08, 10 October 2022
+diff hist  +18‎  m
+Category:Minors
+‎ Add references heading
+current
+Tag: Visual edit
+	- 14:08, 10 October 2022
+diff hist  +2,796‎ 
+Category:Minors
+‎ Populate minors category with a list of all currently offered minors
+Tag: Visual edit: Switched
+	- 13:49, 10 October 2022
+diff hist  +355‎  m
+Aerospace Engineering
+‎ Added current program ranking
+current
+Tag: Visual edit
+	- 13:37, 10 October 2022
+diff hist  +1,084‎ 
+Main Page
+‎ Home page update
+current
+	- 13:37, 10 October 2022
+diff hist  +21‎  m
+Placeholder - Main Page
+‎ Add [Threads] to quick links
+current
+Tag: Visual edit
+	- 21:12, 12 July 2022
+diff hist  +1,657‎ 
+CS 3750
+‎ Added content to TBD sections
+current
+Tag: Visual edit
+	- 00:36, 9 July 2022
+diff hist  +1‎  m
+Talk:Guidelines:Course Pages
+‎
+	- 00:36, 9 July 2022
+diff hist  +575‎  m
+Talk:Guidelines:Course Pages
+‎
+	- 00:34, 9 July 2022
+diff hist  +257‎  N
+Talk:Guidelines:Course Pages
+‎ Created page with "== Leads == It might be a bit restricting to enforce the leading sentence with the "[Course Number] covers..." syntax. The general rule I've been following has been "'''Course..."
+	- 00:16, 9 July 2022
+diff hist  -15‎  m
+Template:Stub
+‎
+current
+	- 00:13, 9 July 2022
+diff hist  +34‎  m
+Template:Stub
+‎ Stubs category
+	- 00:07, 9 July 2022
+diff hist  +2‎  m
+CS 2200
+‎
+current
+Tag: Visual edit
+	- 00:07, 9 July 2022
+diff hist  -1‎  m
+CS 2200
+‎
+	- 00:07, 9 July 2022
+diff hist  -1,749‎  m
+CS 2200
+‎ Stub
+Tag: Visual edit: Switched
+	- 00:04, 9 July 2022
+diff hist  +179‎  N
+Template:Stub
+‎ Created stub template
+	- 23:51, 8 July 2022
+diff hist  -106‎  m
+Template:Colored box/doc
+‎ Updated description
+current
+	- 21:44, 8 July 2022
+diff hist  -12‎  m
+Template:InfoCard
+‎ Squish
+current
+	- 21:31, 8 July 2022
+diff hist  +91‎  m
+Placeholder - Main Page
+‎ Placed links in boxes
+Tag: Visual edit: Switched
+	- 21:13, 8 July 2022
+diff hist  +1‎  m
+CS 4261
+‎ Added MAS section tag after CS 8803 since many Special Topics courses share the course number
+Tag: Visual edit
+	- 21:10, 8 July 2022
+diff hist  +68‎  m
+CS 4261
+‎ Added descriptive title and bolded course title
+Tag: Visual edit: Switched
+	- 21:08, 8 July 2022
+diff hist  -1‎  m
+CS 3451
+‎
+	- 21:08, 8 July 2022
+diff hist  -1‎  m
+CS 3451
+‎
+
+Tag: Visual edit
+	- 21:08, 8 July 2022
+diff hist  +75‎  m
+CS 3451
+‎ Add category and descriptive title
+	- 15:23, 8 July 2022
+diff hist  +221‎  m
+Category:Majors
+‎ Add links to each major and school (lots of potential pages to create!)
+current
+Tag: Visual edit: Switched
+	- 15:14, 8 July 2022
+diff hist  +1,370‎ 
+Category:Majors
+‎ Testing a Content Grid and Colored box implementation to organize undergraduate majors by College
+	- 15:04, 8 July 2022
+diff hist  -759‎ 
+Template:Colored box/doc
+‎ Update documentation to match new template
+	- 14:59, 8 July 2022
+diff hist  -11‎  m
+Template:Colored box
+‎ Re-add title parameter
+current
+	- 14:58, 8 July 2022
+diff hist  -5‎  m
+Template:ContentGrid
+‎ Squishification
+current
+	- 14:58, 8 July 2022
+diff hist  -2‎  m
+Template:Colored box
+‎ Squishing it
+	- 14:56, 8 July 2022
+diff hist  -3‎  m
+Template:Colored box
+‎ Slight edit
+	- 14:54, 8 July 2022
+diff hist  -571‎ 
+Template:Colored box
+‎ Testing a simplified colored box layout
+	- 14:19, 8 July 2022
+diff hist  +2,035‎  N
+Template:Colored box/doc
+‎ Colored box documentation from https://www.mediawiki.org/wiki/Template:Colored_box/doc
+	- 14:18, 8 July 2022
+diff hist  +906‎  N
+Template:Colored box
+‎ Colored box template from https://www.mediawiki.org/wiki/Template:Colored_box
+	- 14:16, 8 July 2022
+diff hist  +593‎  m
+MediaWiki:Common.css
+‎ Colored box styles
+current
+	- 14:07, 8 July 2022
+diff hist  +1,021‎  N
+Template:ContentGrid/doc
+‎ Content grid documentation from https://www.mediawiki.org/wiki/Template:ContentGrid/doc
+current
+	- 14:06, 8 July 2022
+diff hist  +457‎  N
+Template:ContentGrid
+‎ Add ContentGrid template from https://www.mediawiki.org/w/index.php?title=Template:ContentGrid

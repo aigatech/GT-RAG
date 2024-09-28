@@ -1,0 +1,140 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/MATH_1554
+Title: MATH 1554 - Linear Algebra
+Content:
+	MATH 1554 covers linear systems, matrices, eigenvalues, orthogonality, and SVD.
+	* Topic not covered in MATH 1553
+	MATH 1554 is a core math class with a focus on theory. However, MATH 1554 does not use formal proofs, and it still does have many computational problems. The theoretical nature of MATH 1554 can be challenging for first-year students who are used to more computation-heavy algebra and calculus courses.
+	Almost no prerequisite knowledge is required, apart from algebra and trigonometry.
+	MATH 1554 is required for math and cs majors. Due to having almost no prerequisites, MATH 1554 is generally taken during freshmen year. Future calculus classes, such as multivariable calculus and differential equations will use linear algebra concepts such as matrices, determinants, and eigenvalues. In addition, linear algebra is especially important for cs majors, who take many classes that require linear algebra, such as MATH 3012 and CS 3510.
+Bullet Points:
+	- 1 Topic List
+	- 2 Class Structure
+	- 3 Prerequisite Knowledge
+	- 4 Scheduling
+
+4.1 Equivalent Courses
+	- 4.1 Equivalent Courses
+	- 5 Resources
+Bullet Points:
+	- 4.1 Equivalent Courses
+Bullet Points:
+	- Linear Systems and Transformations
+Systems of Linear Equations
+Row Reduction and Echelon Forms
+Vector Equations
+The Matrix Equation
+Solution Sets of Linear Systems
+Linear Independence
+Linear Transforms
+	- Systems of Linear Equations
+	- Row Reduction and Echelon Forms
+	- Vector Equations
+	- The Matrix Equation
+	- Solution Sets of Linear Systems
+	- Linear Independence
+	- Linear Transforms
+Bullet Points:
+	- Systems of Linear Equations
+	- Row Reduction and Echelon Forms
+	- Vector Equations
+	- The Matrix Equation
+	- Solution Sets of Linear Systems
+	- Linear Independence
+	- Linear Transforms
+Bullet Points:
+	- Matrices and the Matrix Inverse
+Matrix Operations
+Matrix Inverse
+Invertible Matrix Theorem
+Partitioned Matrices*
+LU Factorization
+Leontief Input-Output Model*
+Computer Graphics*
+Subspaces
+Dimension and Rank
+	- Matrix Operations
+	- Matrix Inverse
+	- Invertible Matrix Theorem
+	- Partitioned Matrices*
+	- LU Factorization
+	- Leontief Input-Output Model*
+	- Computer Graphics*
+	- Subspaces
+	- Dimension and Rank
+Bullet Points:
+	- Matrix Operations
+	- Matrix Inverse
+	- Invertible Matrix Theorem
+	- Partitioned Matrices*
+	- LU Factorization
+	- Leontief Input-Output Model*
+	- Computer Graphics*
+	- Subspaces
+	- Dimension and Rank
+Bullet Points:
+	- Determinants and Eigenvalues
+Determinants
+Volume and Linear Transforms*
+Markov Chains*
+Eigenvalues and Eigenvectors
+Characteristic Equation
+Diagonalization
+Complex Eigenvalues*
+Google PageRank*
+	- Determinants
+	- Volume and Linear Transforms*
+	- Markov Chains*
+	- Eigenvalues and Eigenvectors
+	- Characteristic Equation
+	- Diagonalization
+	- Complex Eigenvalues*
+	- Google PageRank*
+Bullet Points:
+	- Determinants
+	- Volume and Linear Transforms*
+	- Markov Chains*
+	- Eigenvalues and Eigenvectors
+	- Characteristic Equation
+	- Diagonalization
+	- Complex Eigenvalues*
+	- Google PageRank*
+Bullet Points:
+	- Orthogonality
+Inner Products
+Orthogonal Sets
+Orthogonal Projections
+The Gram-Schmidt Process
+Least-Squares
+	- Inner Products
+	- Orthogonal Sets
+	- Orthogonal Projections
+	- The Gram-Schmidt Process
+	- Least-Squares
+Bullet Points:
+	- Inner Products
+	- Orthogonal Sets
+	- Orthogonal Projections
+	- The Gram-Schmidt Process
+	- Least-Squares
+Bullet Points:
+	- Symmetric Matrices, Quadratic Forms, and SVD
+Symmetric Matrices
+Quadratic Forms
+Constrained Optimization*
+Singular Value Decomposition (SVD)*
+	- Symmetric Matrices
+	- Quadratic Forms
+	- Constrained Optimization*
+	- Singular Value Decomposition (SVD)*
+Bullet Points:
+	- Symmetric Matrices
+	- Quadratic Forms
+	- Constrained Optimization*
+	- Singular Value Decomposition (SVD)*
+Bullet Points:
+	- MATH 1553 is the introduction equivalent, which does not cover as many topics as MATH 1554.
+	- MATH 1564 is the honors equivalent, which uses proofs and is more theoretical than MATH 1554.
+Bullet Points:
+	- https://gatech.instructure.com/courses/114544 provides a set of videos and old exams for MATH 1554.
+	- Interactive Linear Algebra is a free online, interactive textbook made by Georgia Tech professors. Although the textbook is intended for MATH 1553, it is still useful due to the similarity in concepts between MATH 1553 and 1554.
+	- 3blue1brown Essence of Linear Algebra Video Series provides a nice conceptual overview of linear algebra. The video series uses visuals and animations extensively.

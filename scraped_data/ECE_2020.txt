@@ -1,0 +1,30 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/ECE_2020
+Title: ECE 2020 - Fundamentals of Digital Design
+Content:
+	ECE 2020 is a 3 credit hour class with no lab requirement. It is a requirement for both electrical engineering and computer engineering majors.[1] ECE 2020 places emphasis on understanding Boolean algebra and gate design.[2] Several lab projects utilizing the myDAQ, a data acquisition device also used in ECE 2040 and ECE 3084, are featured in the course. Students are required to purchase a myDAQ for ECE 2020.
+	This topic list is from spring 2021.[1]
+	ECE 2031 is taken after ECE 2020, and both courses cover similar topics.
+	ECE 2020 is not a linked course.
+Bullet Points:
+	- 1 Topic List
+	- 2 Future Outlook
+	- 3 Registration
+	- 4 Resources
+	- 5 References
+Bullet Points:
+	- Introduction to Computing Systems
+	- Switch Design
+	- Boolean Algebra
+	- Gate Design
+	- Simplification
+	- Building Blocks
+	- Number Systems
+	- Arithmetic
+	- Latches and Registers
+	- Counters
+	- State Machines
+	- Memory
+	- Datapaths
+	- Introductory Assembly Programming
+Bullet Points:
+	- Course website

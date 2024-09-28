@@ -1,0 +1,15 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Chemistry_and_Biochemistry_(Minor)
+Title: Chemistry and Biochemistry (Minor)
+Content:
+	Chemistry and Biochemistry is a minor program at Georgia Tech, falling under the School of Chemistry and Biochemistry and within the College of Sciences.[1] This minor is intended to further a student's ability to excel in future medical, pharmacy, and dental schools. It is only available to non-chemistry and non-biochemistry minors.
+	The program director is Dr. Stephens.
+	or CHEM 4511
+	Biochemistry I
+Table:
+	Course	|	Description
+	CHEM 2311	|	Organic Chemistry I
+	CHEM 2313	|	Organic and Bioorganic Chemistry
+	CHEM 3511
+or CHEM 4511	|	Survey of Biochemistry
+Biochemistry I
+	CHEM upper-level courses	|	6 credit hours[2]

@@ -1,0 +1,180 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Special:Contributions/Smelly
+Title: User contributions
+Content:
+	
+	
+Bullet Points:
+	- 17:32, 11 September 2021
+diff hist  +526‎  N
+Copypastas
+‎ Created page with "==ECE== ECE2031 has been the most impactful, practical class in my time at Tech; it truly establishes useful skills of the trade that any electrical or computer engineer needs..."
+current
+	- 17:28, 11 September 2021
+diff hist  -14‎ 
+ECE 3084
+‎
+	- 17:28, 11 September 2021
+diff hist  +47‎ 
+ECE 3084
+‎
+	- 17:27, 11 September 2021
+diff hist  +68‎ 
+ECE 3084
+‎
+	- 17:24, 11 September 2021
+diff hist  +1‎ 
+ECE 3084
+‎
+	- 17:23, 11 September 2021
+diff hist  +4‎ 
+Templates
+‎
+current
+	- 17:21, 11 September 2021
+diff hist  +650‎  N
+Templates
+‎ Created page with "Templates are a powerful tool to add information to new course, major, or other pages.  This should simplify and standardize the ability for editors to compile information on..."
+	- 17:14, 11 September 2021
+diff hist  -2,853‎ 
+ECE 3084
+‎ Replaced content with "{{subst:Course}}"
+Tag: Replaced
+	- 17:13, 11 September 2021
+diff hist  -2,853‎ 
+Template:Course
+‎
+current
+	- 17:08, 11 September 2021
+diff hist  +3,511‎ 
+ECE 3084
+‎
+	- 17:07, 11 September 2021
+diff hist  +10‎  N
+ECE 3084
+‎ Created page with "{{Course}}"
+	- 17:06, 11 September 2021
+diff hist  +2‎ 
+Template:Course
+‎
+	- 17:06, 11 September 2021
+diff hist  +3,519‎  N
+Template:Course
+‎ Created page with "{{DISPLAYTITLE:ECE 2040 - Circuit Analysis}}  '''ECE 2040''' is a 3 credit hour class with no lab requirement. It is an elective for Electrical_Engineering |electrical engin..."
+	- 23:35, 26 May 2021
+diff hist  -55‎ 
+Electrical Engineering
+‎ →‎Student Body:  added gt's HKN bridge
+Tag: Visual edit
+	- 23:35, 26 May 2021
+diff hist  +47‎  N
+File:Gt hkn bridge.jpg
+‎
+current
+	- 02:00, 23 May 2021
+diff hist  +491‎ 
+Scheduling
+‎ →‎GT-Scheduler Guide
+	- 01:31, 23 May 2021
+diff hist  -19‎  m
+ECE 2020
+‎ →‎Overview
+	- 01:31, 23 May 2021
+diff hist  -27‎  m
+ECE 2020
+‎ →‎Overview
+	- 01:30, 23 May 2021
+diff hist  +17‎ 
+ECE 2020
+‎ →‎Overview
+	- 01:30, 23 May 2021
+diff hist  +2,010‎  N
+ECE 2020
+‎ Added ECE 2020 page
+	- 22:58, 21 May 2021
+diff hist  +187‎  m
+ECE 2031
+‎
+
+Tag: Visual edit
+	- 22:57, 21 May 2021
+diff hist  +16‎ 
+ECE 2031
+‎
+	- 22:44, 20 May 2021
+diff hist  +486‎  m
+Electrical Engineering
+‎ →‎Threads:  Added links
+Tag: Visual edit
+	- 22:40, 20 May 2021
+diff hist  -12‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 22:39, 20 May 2021
+diff hist  -11‎  m
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 22:36, 20 May 2021
+diff hist  +2‎  m
+Electrical Engineering
+‎
+	- 22:35, 20 May 2021
+diff hist  -66‎  m
+Electrical Engineering
+‎
+
+Tag: Visual edit
+	- 22:33, 20 May 2021
+diff hist  +3,836‎ 
+Electrical Engineering
+‎ →‎Student Body:  Added organization information.
+Tag: Visual edit
+	- 21:04, 20 May 2021
+diff hist  +575‎ 
+Electrical Engineering
+‎
+	- 20:59, 20 May 2021
+diff hist  0‎ 
+Electrical Engineering
+‎
+	- 20:58, 20 May 2021
+diff hist  -1‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:57, 20 May 2021
+diff hist  +4‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:57, 20 May 2021
+diff hist  -73‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:56, 20 May 2021
+diff hist  +51‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:55, 20 May 2021
+diff hist  +199‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:54, 20 May 2021
+diff hist  -2‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:54, 20 May 2021
+diff hist  +14‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:53, 20 May 2021
+diff hist  -76‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 20:52, 20 May 2021
+diff hist  +659‎ 
+Electrical Engineering
+‎ →‎Degree Requirements
+	- 23:03, 19 May 2021
+diff hist  +68‎  N
+User:Smelly
+‎ Created page with "'''4th year EE.  Might act up and maintain the EE page who knows.'''"
+current
+Tag: Visual edit

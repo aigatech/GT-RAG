@@ -1,0 +1,55 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_1332
+Title: CS 1332 - Data Structures and Algorithms
+Content:
+	CS 1332, formally known as Data Structures and Algorithms, is a 3-credit Computer Science class taken as a core requirement for College of Computing and Computer Engineering majors. It provides a detailed overview of data structures and algorithms common in the field of software development and their implementation in the Java programming language. It is immediately preceded by CS 1331.
+	Like most 1000-level CS classes, CS 1332 primarily consists of homework assignments and a set of exams.
+	Homework assignments generally explore the implementation of a data structure or algorithm from scratch in the Java programming language. Aid is occasionally given through pseudo-code. Average homework length tends to be between 2 and 6 hours, depending on the difficulty.
+	Exams test knowledge of the theory of the data structure (efficiency, inner workings) as well as usage and implementation through  multiple choice, fill-in-the-blank, and code writing questions.
+	The topics covered in the course are as follows:
+	As CS 1332's direct prerequisite is CS 1331, CS 1332 demands decent knowledge of the Java programming language. While CS 1332 does not expect you to remember minute details about the language (using the documentation during homework assignments is strongly encouraged), an understanding of programming concepts such as inheritance, polymorphism, generics, exceptions, and overriding is highly critical to success in the class.
+	As the class is called "Data Structures and Algorithms", one would assume some algorithms or algorithms analysis knowledge is needed, but no algorithms knowledge is needed other than the naive definition of big-O introduced in CS 1331.
+	While the topics in CS 1332 are quite useful for technical interviews, many classes do not actually have CS 1332 as a direct prerequisite. The only key classes that use CS 1332 as a prerequisite are CS 3510 (Algorithm Design) and CS 3600 (Intro to AI). Overall, CS 1332 is quite important for the Theory and Intelligence threads, but is not an important prereq for classes in other threads.
+	CS 1332 has no lab or studio and an optional recitation. Recitation sections are under CS 1332R.
+	You must register for one of the lecture sections, marked by a single letter (A, B, C, etc.). If you do decide to register for recitation, you must register for a recitation section with the same leading letter (e.g. if you register for lecture section B, you must register for recitation section B01, B02, etc.).
+	Key Registration Footnote:
+	Computer Engineering students must wait 2 weeks before being given access to register for this course (unlike CS, CM students, who can register immediately).
+	The sole prerequisite for CS 1332 is a C or higher in CS 1331.
+	Due to this prerequisite, CS 1332 expects all students to have a solid grasp of fundamental concepts in the Java programming language, including inheritance, polymorphism, and exception handling. However, at least when I took it in Fall 2018, you weren't allowed to use Java 8 features like lambdas, method references, and streams, so you probably don't need to be an expert at those.
+	Dr. HB's Summer 2020 syllabus is linked here. Note that the class now uses Java 11 instead of Java 8.
+	There's a free self-paced online version of the course available on edX. The videos are very well-produced.
+	Due to the pandemic, recitations were livestreamed.
+	The advanced topics in Spring 2021 included:
+Bullet Points:
+	- 1 Workload
+	- 2 Topics List
+	- 3 Prerequisite Knowledge
+
+3.1 Programming
+3.2 Algorithms
+	- 3.1 Programming
+	- 3.2 Algorithms
+	- 4 Future Outlook
+	- 5 Registration
+
+5.1 Prerequisites
+	- 5.1 Prerequisites
+	- 6 Resources
+
+6.1 Fall 2020
+6.2 Spring 2021
+	- 6.1 Fall 2020
+	- 6.2 Spring 2021
+Bullet Points:
+	- 3.1 Programming
+	- 3.2 Algorithms
+Bullet Points:
+	- 5.1 Prerequisites
+Bullet Points:
+	- 6.1 Fall 2020
+	- 6.2 Spring 2021
+Bullet Points:
+	- This is still shorter than the wait period for other majors, which is roughly 4 weeks.
+Bullet Points:
+	- SkipLists
+	- QuickSelect
+	- An introduction to Dynamic Programming

@@ -1,0 +1,33 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Mechanical_Engineering
+Title: Mechanical Engineering
+Content:
+	Mechanical Engineering is a Bachelors of Science program at Georgia Tech within the College of Engineering.
+	Mechanical Engineering is notorious for having lengthy prerequisite chains, so mechanical engineering students should plan their schedules carefully. The most important prerequisite chain is MATH 1551 to MATH 1552 and PHYS 2211 to COE 2001. All classes in this prerequisite chain should be taken as early as possible, since almost all mechanical engineering courses require COE 2001 or its postrequisites.
+Bullet Points:
+	- 1 Scheduling Guide
+
+1.1 Prerequisite Chains
+1.2 ME 2110
+	- 1.1 Prerequisite Chains
+	- 1.2 ME 2110
+	- 2 Degree Requirements
+Bullet Points:
+	- 1.1 Prerequisite Chains
+	- 1.2 ME 2110
+Table:
+	General Core [1]
+	Course	|	Description
+	APPH 1040/1050/1060	|	Wellness Requirement (2)
+	ENGL 1101, 1102	|	English Requirement (2)
+	CS 1371	|	Computing Requirement (2)
+	6 credits of Humanities Classes	|	Humanities Requirement (6)
+	One History/Government Requirement Class	|	History/Government Requirement (3)
+	COE Economics Requirement	|	COE Economics Requirement (3)
+	6 credits of Social Science Classes	|	Social Science Requirement (6)
+	MATH 1551, 1552	|	Calculus Requirement (6)
+	MATH 1553	|	Linear Algebra Requirement (2)
+	Ethics Requirement	|	Ethics Requirement (3)
+	PHYS 2211, 2212 + CHEM 1310	|	Lab Science Requirement (16)
+Table:
+	Major Requirements
+	Course	|	Description

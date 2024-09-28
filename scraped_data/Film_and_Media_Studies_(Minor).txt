@@ -1,0 +1,72 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Film_and_Media_Studies_(Minor)
+Title: Film and Media Studies
+Content:
+	Film and Media Studies is a program offered under the Ivan Allen College of Liberal Art's School of Literature, Media, and Communication. It can be taken either as a thread in the Computational Media major or a minor for non-majors. The Literature, Media, and Communication major offers the thread under the name Media.
+	The Film and Media Studies program aims to instill a nuanced perspective of film and other forms of media within its students. Although its primary focus is on media critique and analysis, students may opt to take courses in video production, editing and post-production, and acting workshops to gain skills in media creation[1].
+	or Any LMC 27XX or LMC 37XX course
+	or any Film and Media Making course (3)
+	A full list of electives can be found on the course catalog: https://catalog.gatech.edu/programs/computational-media-intelligence-film-media-studies-bs/
+	A full list of Foundations and Specialty courses can be found on the course catalog: https://catalog.gatech.edu/programs/literature-media-communication-thread-literature-communication/
+	The Film and Media Studies minor is offered for all students, except those with a CM or LMC major[2].
+	or LMC 2500
+	or Introduction to Film (3)
+	or an HTS/ML course on Film/Media
+	or a History/Technology/Society or Modern Languages course on Film/Media (3)
+	In total, 18 credit hours are required for completion of the minor.
+	The following is a list of approved electives for the completion of the elective requirement.
+	Up to 6 credit hours of Special Topics courses may be taken in fulfillment of the Film/Media electives.
+Bullet Points:
+	- 1 Thread Requirements (Computational Media)
+	- 2 Thread Requirements (Literature, Media, and Communication)
+	- 3 Minor Requirements
+	- 4 Resources
+Table:
+	Thread Requirements
+	Course	|	Description
+	LMC 2400	|	Introduction to Media Studies (3)
+	LMC 4720
+or Any LMC 27XX or LMC 37XX course	|	Interactive Narrative
+or any Film and Media Making course (3)
+	LMC Film/Media Studies courses (3)	|	Three approved electives totaling (9) credits
+	Any LMC 2XXX, 3XXX, 4XXX courses (3)	|	Three breadth courses totaling (9) credits
+	LMC 4813	|	Special Topics: Media/Design Capstone (3)
+Table:
+	Thread Requirements
+	Course	|	Description
+	LMC 2400	|	Introduction to Media Studies (3)
+	LMC Foundations courses (2)	|	Foundations electives totaling (6) credits
+	LMC Specialty courses (3)	|	Specialty electives totaling (9) credits
+	LMC XXXX	|	LMC elective (3)
+Table:
+	Program Requirements
+	Course	|	Description
+	LMC 2400
+or LMC 2500	|	Introduction to Media Studies (3)
+or Introduction to Film (3)
+	LMC 3254	|	Film History (3)
+	LMC Film/Media elective courses (3)	|	Three approved electives totaling (9) credits
+	LMC 4500
+or an HTS/ML course on Film/Media	|	Capstone Course (3)
+or a History/Technology/Society or Modern Languages course on Film/Media (3)
+Table:
+	List of accepted Film/Media elective courses
+	Course	|	Description
+	LMC 3062[3]	|	Film Acting Workshop (3)
+	LMC 3206	|	Communication and Culture (3)
+	LMC 3215[3]	|	Science Fiction Film & TV (3)
+	LMC 3236	|	Writing for the Stage and Screen (3)
+	LMC 3252	|	Studies in Film and Television (3)
+	LMC 3255	|	Cinema and Digital Culture (3)
+	LMC 3256	|	Major Filmmakers (3)
+	LMC 3257	|	Global Cinema (3)
+	LMC 3258	|	Documentary Film (3)
+	LMC 3259	|	Experimental Film (3)
+	LMC 3263	|	Music, Culture, and Society (3)
+	LMC 3314	|	Technologies of Representation (3)
+	LMC 3352	|	Film and/as Technology (3)
+	LMC 3404	|	Social Media (3)
+	LMC 3405	|	Media, Culture, and Society (3)
+	LMC 3406	|	Video Production (3)
+	LMC 3407	|	Advanced Video Production (3)
+	LMC 3411	|	The Rhetoric of Visual Communication (3)
+	LMC 3813[3]	|	Special Topics: Editing and Post-Production (3) (Offered Spring 2022)

@@ -1,0 +1,35 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CHEM_2311
+Title: CHEM 2311 - Organic Chemistry I
+Content:
+	CHEM 2311: Organic Chemistry I is a 3 credit initial course in organic chemistry. It is intended for students majoring in Chemistry, Biology, Biochemistry, or Chemical and Biomolecular Engineering, as well as pre-health students.[1] It is immediately succeeded by CHEM 2312 or CHEM 2313, and it is immediately preceded by CHEM 1212K.
+	The textbook used is Organic Chemistry by Solomons and Fryhle. Homework consists of online auto-graded problems, and there are optional weekly recitations and PLUS sessions. CHEM 2311 has no lab section.
+	Organic chemistry is widely considered to be a difficult course; grading may be curved, and exams may have substantial extra credit.
+	This topic list is from spring 2019.
+	CHEM 2311 is not a linked course, but it has a recitation. However, the recitation is a component of the course itself, having no separate section, so students only register for a lecture section.
+Bullet Points:
+	- 1 Workload
+	- 2 Topic List
+	- 3 Registration
+	- 4 Resources
+	- 5 References
+Bullet Points:
+	- Bonding and molecular structure
+	- Functional groups, intermolecular forces, and infrared (IR) spectroscopy
+	- Acids and bases
+	- Alkanes and cycloalkanes
+	- Stereochemistry
+	- Chiral molecules
+	- Nucleophilic substitution of alkyl halides
+	- Elimination reactions of alkyl halides
+	- Alkenes and alkynes
+	- Addition reactions
+	- Nuclear magnetic resonance (NMR) and mass spectroscopy
+	- Radical reactions
+	- Conjugated unsaturated systems
+	- Aromatic compounds
+	- Multistep synthesis
+Bullet Points:
+	- Old syllabus
+	- Easy-to-read IR spectroscopy table by Compound Chemistry - however, during an exam, only the reference sheet given can be used
+	- IR guide by Master Organic Chemistry
+	- Reactions Quizlet for Spring 2019

@@ -1,0 +1,56 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_4641
+Title: CS 4641 - Machine Learning
+Content:
+	
+	CS 4641: Machine Learning is a 3-credit Computer Science course about machine learning. The graduate level of the course is CS 7641, which has additional homework problems.
+	Machine learning is the task of having computer learn from data to make predictions, insights, or decisions.
+	Coursework includes math/programming assignments, tests/quizzes, and towards the end of the semester, a team project using machine learning for a topic of your choice.
+	Course topics include:[1]
+	The course does not closely follow any textbook, but the slides are reasonably detailed.
+	The only prerequisite is 1332, but really you should have a good grounding in probability and statistics, linear algebra, and a bit of multivariable calculus, and have basic programming experience in Python, before taking this course. The reinforcement learning unit has some overlap with CS 3600: Introduction to Artificial Intelligence, so it may be helpful to take CS 3600 beforehand or at the same time, and the latter part of CS 3600 also teaches machine learning to a limited extent.
+	The median student in CS 4641 spent 11 hours per week on the course in Spring 2021, according to SmartEvals. For CS 7641, the median student spent 11–19 hours per week, depending on the section and semester.
+Bullet Points:
+	- Review of math fundamentals
+Linear algebra
+Probability and statistics
+Information theory
+Optimization
+	- Linear algebra
+	- Probability and statistics
+	- Information theory
+	- Optimization
+	- Supervised learning: making predictions from data
+Tree-based models
+Support vector machines
+Linear classification and regression
+Neural networks
+	- Tree-based models
+	- Support vector machines
+	- Linear classification and regression
+	- Neural networks
+	- Unsupervised learning: drawing insights from unlabeled data
+Clustering
+Dimensionality reduction
+Kernel density estimation
+	- Clustering
+	- Dimensionality reduction
+	- Kernel density estimation
+	- Hidden Markov models
+	- Reinforcement learning
+Bullet Points:
+	- Linear algebra
+	- Probability and statistics
+	- Information theory
+	- Optimization
+Bullet Points:
+	- Tree-based models
+	- Support vector machines
+	- Linear classification and regression
+	- Neural networks
+Bullet Points:
+	- Clustering
+	- Dimensionality reduction
+	- Kernel density estimation
+Bullet Points:
+	- Course syllabus, schedule, and slides, Spring 2021
+	- Free online course videos on edX by Charles Isbell

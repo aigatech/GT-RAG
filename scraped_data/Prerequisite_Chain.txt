@@ -1,0 +1,122 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Prerequisite_Chain
+Title: Scheduling
+Content:
+	Scheduling refers to information about class registration.
+	Class registration at Georgia Tech occurs over multiple phases. In each phase, eligible students will receive a time ticket, which indicates a certain time frame for when students can add and drop classes.[1] Check the Registrar's academic calendar for the exact dates of each registration phase.
+	Continuing students begin course registration for the next semester in the semester prior.[2] Registration for spring classes occurs in the fall, usually around October and November, and registration for fall and summer classes occurs in the spring, usually around March. Time tickets in phase 1 are assigned based on completed credit hours, with students who have more credit hours receiving earlier time tickets.[1]
+	New students and transfer students begin course registration during their orientation (FASET). Students will register with their FASET group, and FASET leaders, advisors, and the Registrar will be available to help students during class registration. The order in which FASET groups register for classes has not been observed to depend on incoming credits.
+	Phase "AP" is a special registration phase intended for students who have not received their test scores by their FASET date. Phase AP typically occurs in late July, and time tickets are given to all incoming students who had their FASET before Phase AP. In 2021, all students received the same time ticket except for iGniTe students, who received earlier time tickets but still at a consistent time.
+	Phase AP allows students to register for courses that have prerequisites satisfied by AP credit. Students may not register for classes without the proper prerequisites, unless given a prerequisite override.[3] Students who are eligible for Phase AP should be sure to send their test scores to Georgia Tech so that they are received before students' time tickets open.
+	Phase 2 is the last registration phase for all students, beginning about a week before classes start and ending after the first week of classes. The first week of classes, known as "syllabus week," overlaps with phase 2 registration and gives students an opportunity to drop out of courses without a "W" appearing on their transcripts.[2][Note 1] Typically, professors do not give much work during this week, making this a great time to decide whether to remain in a course based on the syllabus, professor style, etc. As a result, waitlists tend to move a lot during this phase.
+	Time tickets in phase 2 are assigned based on completed credit hours, with students who have more credit hours receiving earlier time tickets.[1] However, earlier time tickets in phase 2 are not as advantageous since spots usually become available due to students dropping courses, and most students are able to get all the classes they need during phase 2, even if they have a rough experience in phase 1 or FASET.
+	Course numbers indicate certain information about courses, such as the year that they are typically taken in. Note that the conventions below are general and should not be used as a strict rule. For example, a couple 3000-level classes, such as MATH 3012, are sometimes taken by freshmen despite the convention listed below.
+	The letters preceding the four digit number indicate which department offers the course. For example, CS 1301 is a course offered by the college of computing.
+	The first digit indicates which year the class is typically taken in. Course numbers in the form 1XXX are generally introductory classes, 2XXX are generally introductory technical classes that build on 1XXX classes, 3XXX classes are specific technical material that delve into a particular subset of material from a 2XXX class at a deeper level, and 4XXX classes are generally highly specialized technical classes. Transfer courses on the transfer equivalency table listed as 1XXX, 2XXX, etc. may be used as free electives.
+	Subsequent digits indicate other information about a course, such as if it is a course reserved for special topics. A more comprehensive guide to course numbering is provided by the Registrar.
+	Each section in a course has its own unique identification number, called a "Course Reference Number" (CRN). This number is typically five digits long and is separate from the overall course number. CRNS are primarily used for class registration.[4]
+	https://registrar.gatech.edu/registration/permits-and-overloads
+	Registration holds prevent students from adding and dropping classes during their time ticket. To view registration holds, go to "Registration Status" in OSCAR, select the applicable term, and click "View Holds" at the bottom of the page. If any holds are present, students must complete the given steps or contact the department that gave the hold to clear it. If no holds are present for a student, then they may register for classes during their time ticket.[5] Keep in mind that it's important to do this before your registration during FASET if you're a first year, because most likely you will have at least one hold that requires you to sign something.
+	A linked course is a course that has both a lecture section and an additional section, such as a lab, studio, or recitation. Both sections must be registered for simultaneously. This guide made by the ME department provides more information about linked courses and is applicable to all majors.
+	Some classes have a shared test period, such as PHYS 2211 and 2212. This shows up in a schedule as a single time block during the week and is usually very late in the day. However, most students will only have 2-5 tests per class, so it will not be used most weeks.
+	Free electives can be satisfied by any course, with the exception of equivalent courses. For example, if a student has taken MATH 1554, then they cannot satisfy free elective credit with MATH 1564, and an aerospace engineering student cannot satisfy free elective credit with ME 2202, since they already have to take their version of dynamics, AE 2220.
+	Some free elective credit is restricted to 2000-level courses and higher, so courses with a number in the form 1XXX cannot satisfy this credit. All requirements can be viewed in Degree Works.
+	A prerequisite chain is a series of courses that must be taken one after another due to prerequisite restrictions on those courses. For example, a common prerequisite chain among engineering majors is PHYS 2211 to PHYS 2212 to ECE 3710 to ECE 3741. PHYS 2211 must be taken before PHYS 2212, PHYS 2212 must be taken before ECE 3710, etc.
+	Many majors have particular prerequisite chains that are important to complete as early as possible to graduate on time. For example, electrical engineering majors should take ECE 2040 and its prerequisites as early as possible. For more information about prerequisite chains in a particular major, consult that major's respective wiki page.
+	Each department typically sends out information about advising via email before FASET, so students should complete all instructions there first. All incoming students should receive a suggested schedule from their advisor by the end of this process. If not, students can fill out their schedules using the instructions below. These instructions are also applicable for students who already have a suggested schedule, as advisors are just one source of information.
+	Before determining which classes to take, students should check which credits they already have. This can be done by looking at the classes and requirements checked off in Degree Works. If a student's test scores or transfer credit have not been received by Georgia Tech yet, the classes and requirements they fulfill will not show as completed in Degree Works.[Note 2] This means that should a student attempt to register for classes that have prerequisites satisfied by those credits, OSCAR will display a prerequisite error.[6] If needed, students can request prerequisite overrides if they already know their scores. Equivalency tables for AP exams, IB exams, A-levels, and transfer credit show which credits may be earned.
+	After checking completed credits, students should look at their majors' requirements. A selection of resources for major requirements and prerequisites is listed on this page. Based on these requirements and prerequisites, students should create a schedule. While 12 is the minimum number of credit hours to be considered a full-time student, any schedule with more than 16 credit hours is not recommended for first-year students, unless they are coming in with no credits.[7] 15 credits (about 5 classes) is recommended, but take 12-13 credits (about 4 classes) for a lighter load first semester. In addition, follow the guidelines below:
+	Finally, students should check their schedule with current students. The Georgia Tech Discord server is a great place to do this. Another important point to remember is that Georgia Tech requires no prior knowledge for any major beyond what is learned in high school, so there is no need to review or learn any material before classes start.
+	Class registration at Georgia Tech is done via OSCAR, short for "Online Student Computer Assisted Registration." To access OSCAR, first sign in via the "Secure Access Login" link. Then, click on "Student Services & Financial Aid" followed by "Registration." This page is the registration menu, which provides several helpful links for class registration.
+	Classes can only be added and dropped during a student's time ticket.[1] To view time ticket information, click "Registration Status" and select the fall term. In addition, OSCAR will show if a student has registration holds or not on this page.
+	Even though classes can only be added or dropped during students' time tickets, students may view availability for all classes at any time by selecting "Look Up Classes" in the registration menu. The Registrar provides information on how to interpret class data in OSCAR. During a student's time ticket, they will also be able to add and drop courses via these pages.[4]
+	Another method for class registration is to click "Add/Drop Classes" in the registration menu. Course Reference Numbers (CRNs) can be entered all at once, allowing for quicker registration. Of course, "Add/Drop Classes" can only be used during a time ticket.[4]
+	To view CIOS survey data, log in when prompted and click "See Results" at the bottom of the page.
+	The survey data provides unique information about how much time the median student spends per week on a course, which can help gauge the workload of a class. While this information can be extremely useful, avoid using these numbers as hard facts.
+	Other survey data indicates the quality of a course, rated on a scale of 1-5, the quality of a professor's teaching, and the percentage of classes attended. The prevalence and incentives surrounding CIOS survey completion may make CIOS survey data a more reliable resource than Rate My Professors.
+	Incoming freshmen and teaching assistants (TAs) may not be able to view the survey data.
+	To use GT Scheduler, follow the steps below:
+	First, select the desired term in the top left corner of the screen. The term should default to the next term.
+	Next, add classes by entering course numbers in the top left dialogue box. Added courses will be displayed in a list on the left side of the screen, and time blocks will automatically be filled in the calendar located on the right side of the screen. In between the course list and calendar, a list of all possible permutations of a schedule that contains the entered courses will be displayed. This list of schedules can be sorted by compactness, earliest ending time, or latest beginning time.
+	The letters and numbers to the right of a course number indicate the section and subsection selected. Each section has its own professor and lecture periods. Some sections may share a professor, but they will have different lecture periods. Subsections differ in TAs and time periods.
+	To view a course's prerequisites, select the second icon at the top right of a course on the added courses menu. The drop down menu that appears after selecting the icon will have an information icon that links to OSCAR. OSCAR is the most accurate source for prerequisite information, so it is best to always double check a course's prerequisites on OSCAR. In addition, check OSCAR for additional information about a course or section, such as campus, major, concentration, and LLC restrictions.
+Bullet Points:
+	- 1 Registration Phases
+
+1.1 Phase 1
+1.2 FASET
+1.3 Phase "AP"
+1.4 Phase 2
+	- 1.1 Phase 1
+	- 1.2 FASET
+	- 1.3 Phase "AP"
+	- 1.4 Phase 2
+	- 2 Course Number
+
+2.1 Course Reference Number
+	- 2.1 Course Reference Number
+	- 3 Permits, Overrides, and Overloads
+	- 4 Registration Hold
+	- 5 Additional Information
+
+5.1 Linked Course
+5.2 Testing Period
+5.3 Shared Test Period
+5.4 Free Electives
+5.5 Prerequisite Chain
+	- 5.1 Linked Course
+	- 5.2 Testing Period
+	- 5.3 Shared Test Period
+	- 5.4 Free Electives
+	- 5.5 Prerequisite Chain
+	- 6 First-Year Guide
+
+6.1 Scheduling
+6.2 Registration
+	- 6.1 Scheduling
+	- 6.2 Registration
+	- 7 Resources
+
+7.1 CIOS Survey Data Guide
+7.2 GT Scheduler Guide
+	- 7.1 CIOS Survey Data Guide
+	- 7.2 GT Scheduler Guide
+	- 8 Notes
+	- 9 References
+Bullet Points:
+	- 1.1 Phase 1
+	- 1.2 FASET
+	- 1.3 Phase "AP"
+	- 1.4 Phase 2
+Bullet Points:
+	- 2.1 Course Reference Number
+Bullet Points:
+	- 5.1 Linked Course
+	- 5.2 Testing Period
+	- 5.3 Shared Test Period
+	- 5.4 Free Electives
+	- 5.5 Prerequisite Chain
+Bullet Points:
+	- 6.1 Scheduling
+	- 6.2 Registration
+Bullet Points:
+	- 7.1 CIOS Survey Data Guide
+	- 7.2 GT Scheduler Guide
+Bullet Points:
+	- Never retake courses unless there is an extremely niche reason for doing so. While students may not feel comfortable with all the material in courses that they already have credit for, material can always be reviewed, which is a much better option than retaking entire courses. Retaking a course does not guarantee that the material is fully learned, risks the possibility of a low grade, and takes time away from other courses required to graduate.
+	- Avoid taking a chemistry, calculus, and computer science class together, as taking all three at once can be a lot of work. A similar guideline applies for math: avoid taking more than 4 credits worth of core math classes at once.
+	- Labs tend to be very time-consuming, so avoid taking more than one class with a lab section in a semester, with an exception for science majors.
+	- If possible, take at least one non-STEM class to prevent a difficult semester, but make sure to not take too many. Save some humanities, social sciences, and free electives for more difficult semesters in the future.
+	- Students should try to take classes that are big prerequisites for their major. For example, computer science majors should take CS 1301 and CS 1331 as early as possible, and mechanical engineering majors should take PHYS 2211 and COE 2001 as early as possible. More specific guides can be found on major wiki pages.
+	- Be sure to have backup classes, as getting every class with the best professors and times is not always possible.
+Bullet Points:
+	- Academic advisors can assist students with their schedules; however, advisors are not always familiar with which professors are more difficult and may not give plans that follow prerequisites.
+	- CIOS Survey Data provides aggregate numerical data from CIOS surveys, surveys that students fill out towards the end of a course each semester to evaluate its quality. See the guide below for usage.
+	- Course Critique provides historical data about a professor's GPA in a specific course. In general, professors with a higher GPA than the course's historical average will be easier professors.
+	- Degree Works is used to evaluate prerequisites and classes required for a student's major. It is used by academic advisors but can be accessed by students as well. While Degree Works is always accurate, other resources may be more user-friendly for checking requirements.
+	- GT Discord is an online community of Georgia Tech students and alumni who can help with schedule planning. Be sure to follow the rules posted in the welcome channel.
+	- GT Scheduler, created by Jinseo Park and Bits of Good, is a user-friendly site that allows students to optimize and display information about their schedules. See the guide below for usage.
+	- OMSCentral provides ratings and reviews for OMS (Online Master of Science) courses. All OMS courses have a 6XXX, 7XXX, or 8XXX course number.
+	- Oscar Registration Extension is a Google Chrome extension that allows users to quickly fill in CRNs on the day of registration. Some users have reported issues with it, however, so be cautious.
+	- Rate My Professors is a popular professor rating website. Information on Rate My Professors often tracks with CIOS data, but both should be consulted when creating a schedule.
+	- Requirement lists are helpful for reviewing the requirements for a major or minor; however, they may not always be updated.
+	- Suggested 4-year plans typically display prerequisite chains for a major; however, some may be outdated.

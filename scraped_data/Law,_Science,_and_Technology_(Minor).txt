@@ -1,0 +1,10 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Law,_Science,_and_Technology_(Minor)
+Title: Law, Science, and Technology (Minor)
+Content:
+	Law, Science, and Technology is a minor program at Georgia Tech, falling under the School of Public Policy and within the Ivan Allen College of Liberal Arts [1].  Georgia Tech considers this minor to be a "Pre-Law" program.  It is intended to give students a view of the legal world, permitting educated decisions to be made before attending law school.  It is also intended to develop a student's ability to excel in law school by emphasizing class discussion and writing exercises in its curriculum.
+	The program is managed by Professor Chad F. Slieper, J.D.
+Table:
+	LST - Minor Requirements
+	Course	|	Description
+	PUBP 3610	|	Pre-Law Seminar
+	Law, Science, and Technology Electives	|	12 hours[2]

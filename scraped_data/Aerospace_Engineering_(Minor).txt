@@ -1,0 +1,26 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Aerospace_Engineering_(Minor)
+Title: Aerospace Engineering (Minor)
+Content:
+	The Aerospace Engineering Minor (not to be confused with the Aerospace Engineering major program) is a minor program at Georgia Tech, falling under the Daniel Guggenheim School of Aerospace Engineering and within the College of Engineering.[1] This minor is intended for students not majoring in aerospace engineering who still want to have a solid fundamental background in the field and enter the aerospace industry. Although the aerospace engineering minor program is often done by mechanical engineering majors, students in other majors such as Computer Science also take the minor.
+	As of June 2021, the primary minor advisor for the program is Dr. Stephen Ruffin.
+	or AE 2011*
+	Fluids Fundamentals (2)
+Bullet Points:
+	- AE 2011 is taken by mechanical engineering majors who have already taken ME 3322 (Thermodynamics) and need to take a two-hour bridge course to fulfill the AE 2010 requirement for the minor.
+	- The minimum credit hour requirement for the minor is 15 credit hours, including 9 credit hours in 3000 level courses or above.
+	- A maximum of 3 credit-hours of AE 3355/4355 may be applied to satisfy the minor.
+	- Up to 1 credit-hour of research credit (AE 2699/4699) may be used.
+	- No more than 6 credit-hours of Special Topics courses may be included.
+	- If one credit hour research is taken, then only 5 credit hours of Special Topics is allowed.
+	- No Special Problems or internship coursework may be used.
+	- Courses required by name and number in a student’s major degree program cannot count towards the minor.
+	- Students may not use AE 3530 to satisfy their minor requirements if they use ME 3015, ME 3017 or ECE 3085 to satisfy their major requirements.
+	- Depending on major and classes completed, some students in the AE minor program may have to take additional prerequisite classes to fulfill the AE minor. For instance, computer science majors with an aerospace engineering minor may have to take prerequisite classes such as COE 2001 (Statics), CHEM 1310 (General Chemistry), and MATH 2551 (Multivariable Calculus - 4 credit hour version).
+Table:
+	Course	|	Description
+	AE 2010
+or AE 2011*	|	Thermodynamics and Fluid Fundamentals (4)
+Fluids Fundamentals (2)
+	AE 3030	|	Aerodynamics (4)
+	AE 3330	|	Introduction to Aerospace Vehicle Performance (3)
+	AE elective courses*	|	4 credit hours[2]

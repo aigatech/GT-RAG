@@ -1,0 +1,105 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/ME_1670
+Title: ME 1670 - Introduction to Engineering Graphics and Visualization
+Content:
+	ME 1670 covers the basics of sketching, computer-aided design (CAD), and engineering drawings. The first part of the course focuses on sketching, mostly in two-point perspective, while the latter portion focuses on CAD, utilizing SolidWorks. It is a major requirement for ME and AE majors as it covers many fundamental engineering concepts.
+	The course typically features two major projects, while lacking exams or quizzes. The first project is an individual project, where students must design a small object to be printed on a commercial SLS 3D printer. The second project is a group project, where students design a larger, more complex product that will not actually be created. Groups are randomly assigned close to the beginning of the semester.
+	All sketching assignments can be done with a pencil and copy paper. 2-3 sheets of copy paper per week is needed during the sketching portion of the class, which typically comprises of the first five weeks of class. Copy paper is only necessary for the lab activities and homework; however, students who wish to practice during the lectures or on their own time may require additional sheets of copy paper. Lined paper is not permitted for graded assignments.
+	During the sketching portion of the class, Dorozhkin typically explains sketching techniques in lectures, while labs are reserved for practice and going over homework. During the CAD portion of the class, Dorozhkin typically discusses general concepts and SolidWorks features in lectures, while labs are reserved for practice. Labs tend to be more important than the lectures for CAD.
+	Attendance is required for both lectures and labs. However, Dorozhkin usually only takes up the first 30-60 minutes of the lab with a guided practice example and lets you leave afterwards. Often, the guided practice example is the lab activity itself, so you can work on your homework afterwards if you wish to stay.
+	ME 1670 has no prerequisites and does not require any prior knowledge of content. Plenty of students with no experience in CAD do well in the class as it is designed to be an introduction to CAD. Of course, prior knowledge of CAD is helpful but not required.
+	ME 1670 is required for ME and AE majors and is typically taken freshman year. Other engineering majors may take ME 1670 as an elective. For ME majors, ME 1670 is a prerequisite for ME 2110.
+Bullet Points:
+	- 1 Topic List
+	- 2 Class Structure
+
+2.1 Dorozhkin
+	- 2.1 Dorozhkin
+	- 3 Prerequisite Knowledge
+	- 4 Scheduling
+
+4.1 Equivalent Courses
+	- 4.1 Equivalent Courses
+Bullet Points:
+	- 2.1 Dorozhkin
+Bullet Points:
+	- 4.1 Equivalent Courses
+Bullet Points:
+	- Introduction
+Art Elements
+Drawing Paradigms
+	- Art Elements
+	- Drawing Paradigms
+	- Two-Point Perspective Drawings
+One-Point Perspective Drawings
+Cubes
+Basic Shapes
+Detailing
+Complex Forms
+Orthographic Views
+	- One-Point Perspective Drawings
+	- Cubes
+	- Basic Shapes
+	- Detailing
+	- Complex Forms
+	- Orthographic Views
+	- SolidWorks
+3D Printing
+Introduction
+Sketching and Feature Definition
+Material Addition Operations
+Basic Dimensioning
+Material Removal Operations and Holes
+Advanced Modeling
+Tolerancing
+Assemblies
+Dimensioning
+Sketch Blocks and In-Context Modeling
+Auxiliary Views, Section Views, and Detail Views
+Working Drawings
+	- 3D Printing
+	- Introduction
+	- Sketching and Feature Definition
+	- Material Addition Operations
+	- Basic Dimensioning
+	- Material Removal Operations and Holes
+	- Advanced Modeling
+	- Tolerancing
+	- Assemblies
+	- Dimensioning
+	- Sketch Blocks and In-Context Modeling
+	- Auxiliary Views, Section Views, and Detail Views
+	- Working Drawings
+	- Additional Topics
+Geometric Dimensioning and Tolerancing (GD&T)
+Rendering and PhotoView 360
+	- Geometric Dimensioning and Tolerancing (GD&T)
+	- Rendering and PhotoView 360
+Bullet Points:
+	- Art Elements
+	- Drawing Paradigms
+Bullet Points:
+	- One-Point Perspective Drawings
+	- Cubes
+	- Basic Shapes
+	- Detailing
+	- Complex Forms
+	- Orthographic Views
+Bullet Points:
+	- 3D Printing
+	- Introduction
+	- Sketching and Feature Definition
+	- Material Addition Operations
+	- Basic Dimensioning
+	- Material Removal Operations and Holes
+	- Advanced Modeling
+	- Tolerancing
+	- Assemblies
+	- Dimensioning
+	- Sketch Blocks and In-Context Modeling
+	- Auxiliary Views, Section Views, and Detail Views
+	- Working Drawings
+Bullet Points:
+	- Geometric Dimensioning and Tolerancing (GD&T)
+	- Rendering and PhotoView 360
+Bullet Points:
+	- CEE 1770 is taken by CivE majors and focuses more on applications for civil engineering.

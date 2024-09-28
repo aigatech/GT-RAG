@@ -1,0 +1,208 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_3750
+Title: CS 3750
+Content:
+	CS 3750, known under the names Human-Computer Interaction or User Interface Design, is a thread requirement for the People thread offered under the Computer Science and Computational Media majors, and the Computing and People minor. The course is project-based and introduces students to industry-standard design principles for user interface research and evaluation.
+	For the purposes of satisfying the People requirement, CS 3750 and CS 3873 are the same course. Talk to your major advisor if DegreeWorks does not fulfill the User Interface Design requirement upon completion of the class.
+	The topic list may vary by professor. The project component is an important component of all CS 3750 classes. In general, this is what students can expect:
+	Some professors may require students to complete the CITI Human Research certification prior to conducting studies on human subjects. Dr. Arriaga requested all students in her Spring 2021 class to complete the certification prior to starting their projects.
+	Influential design researcher Don Norman's book The Design of Everyday Things may be incorporated into the curriculum on design principles. Relevant design concepts from the book include:
+	The class has two 50-minute lectures and a 2-hour lab each week. Lectures are standard and discuss topics of interest from the topic list each week. Some lectures may contain quizzes or small participation activities.
+	Labs operate with a cohort of students assigned to each TA. TAs provide supplementary instruction on readings and topics covered in earlier lectures. They provide guidance in forming and assisting project teams, and conducting weekly design sprint activities relevant to the current phase of the project. An example of one such activity is 'Crazy 8's' (brainstorm eight ideas in eight minutes). Some time during labs may be allocated toward team project work, although teams are also expected to meet outside of official instruction times.
+	This is an introductory course to foundational concepts in the field of human-computer interaction and user experience design. No prior knowledge in these areas is expected.
+	It should be noted that this class does not teach students how to use user interface and prototyping software like Figma or Adobe XD. It may be beneficial for students to have a basic understanding of a prototyping software application for the purposes of creating a high-fidelity prototype for Parts 3 and 4 of the project.
+	There are no course prerequisites or class standing restrictions for this class.
+	CS 3750 is a required course for People thread majors.
+	This course can be used as a litmus test for whether one should commit to the People thread. The fields of human-computer interaction and UI/UX design follow frameworks and processes that this course introduces, particularly within the user-centered design process that one goes through during the course of the project.
+Bullet Points:
+	- 1 Topic List
+
+1.1 General Topic List
+1.2 Content Variance
+
+1.2.1 CITI Human Research Certification
+1.2.2 The Design of Everyday Things
+	- 1.1 General Topic List
+	- 1.2 Content Variance
+
+1.2.1 CITI Human Research Certification
+1.2.2 The Design of Everyday Things
+	- 1.2.1 CITI Human Research Certification
+	- 1.2.2 The Design of Everyday Things
+	- 2 Class Structure
+	- 3 Prerequisite Knowledge
+	- 4 Scheduling
+	- 5 Trivia
+	- 6 Resources
+Bullet Points:
+	- 1.1 General Topic List
+	- 1.2 Content Variance
+
+1.2.1 CITI Human Research Certification
+1.2.2 The Design of Everyday Things
+	- 1.2.1 CITI Human Research Certification
+	- 1.2.2 The Design of Everyday Things
+Bullet Points:
+	- 1.2.1 CITI Human Research Certification
+	- 1.2.2 The Design of Everyday Things
+Bullet Points:
+	- Introduction to Human-Computer Interaction
+	- Introduction to User-Centered Design
+	- Introduction to Design Principles
+	- Designing for Diversity, Accessibility, Sustainability
+	- Semester-Long Design Project
+Part 0 - Ideation and Problem Overview
+Brainstorming and critique
+Part 1 - Requirements Gathering
+Task analysis
+Personas
+User scenarios
+Interviews
+Part 2 - Design Alternatives
+Design space
+Poster session
+Design assessments
+Part 3 - Interface Prototyping and Evaluation Plan
+Prototyping
+Usability testing
+Heuristic evaluation
+Evaluation planning
+Part 4 - High-Fidelity Prototype, Final Deliverables
+Evaluation testing
+Analysis of results
+Implications and critiques
+	- Part 0 - Ideation and Problem Overview
+Brainstorming and critique
+	- Brainstorming and critique
+	- Part 1 - Requirements Gathering
+Task analysis
+Personas
+User scenarios
+Interviews
+	- Task analysis
+	- Personas
+	- User scenarios
+	- Interviews
+	- Part 2 - Design Alternatives
+Design space
+Poster session
+Design assessments
+	- Design space
+	- Poster session
+	- Design assessments
+	- Part 3 - Interface Prototyping and Evaluation Plan
+Prototyping
+Usability testing
+Heuristic evaluation
+Evaluation planning
+	- Prototyping
+	- Usability testing
+	- Heuristic evaluation
+	- Evaluation planning
+	- Part 4 - High-Fidelity Prototype, Final Deliverables
+Evaluation testing
+Analysis of results
+Implications and critiques
+	- Evaluation testing
+	- Analysis of results
+	- Implications and critiques
+Bullet Points:
+	- Part 0 - Ideation and Problem Overview
+Brainstorming and critique
+	- Brainstorming and critique
+	- Part 1 - Requirements Gathering
+Task analysis
+Personas
+User scenarios
+Interviews
+	- Task analysis
+	- Personas
+	- User scenarios
+	- Interviews
+	- Part 2 - Design Alternatives
+Design space
+Poster session
+Design assessments
+	- Design space
+	- Poster session
+	- Design assessments
+	- Part 3 - Interface Prototyping and Evaluation Plan
+Prototyping
+Usability testing
+Heuristic evaluation
+Evaluation planning
+	- Prototyping
+	- Usability testing
+	- Heuristic evaluation
+	- Evaluation planning
+	- Part 4 - High-Fidelity Prototype, Final Deliverables
+Evaluation testing
+Analysis of results
+Implications and critiques
+	- Evaluation testing
+	- Analysis of results
+	- Implications and critiques
+Bullet Points:
+	- Brainstorming and critique
+Bullet Points:
+	- Task analysis
+	- Personas
+	- User scenarios
+	- Interviews
+Bullet Points:
+	- Design space
+	- Poster session
+	- Design assessments
+Bullet Points:
+	- Prototyping
+	- Usability testing
+	- Heuristic evaluation
+	- Evaluation planning
+Bullet Points:
+	- Evaluation testing
+	- Analysis of results
+	- Implications and critiques
+Bullet Points:
+	- The Seven Fundamental Principles of Design
+Discoverability
+Feedback
+Conceptual Models
+Affordances
+Signifiers
+Mappings
+Constraints
+	- Discoverability
+	- Feedback
+	- Conceptual Models
+	- Affordances
+	- Signifiers
+	- Mappings
+	- Constraints
+	- The Seven Stages of Action
+The Gulf of Execution
+The Gulf of Evaluation
+	- The Gulf of Execution
+	- The Gulf of Evaluation
+	- Human Cognition
+Visceral
+Behavioral
+Reflective
+	- Visceral
+	- Behavioral
+	- Reflective
+Bullet Points:
+	- Discoverability
+	- Feedback
+	- Conceptual Models
+	- Affordances
+	- Signifiers
+	- Mappings
+	- Constraints
+Bullet Points:
+	- The Gulf of Execution
+	- The Gulf of Evaluation
+Bullet Points:
+	- Visceral
+	- Behavioral
+	- Reflective
+Bullet Points:
+	- CS 3750 is currently offered as CS 3873 Special Topics: Human Computer Interaction[1]. CS 3873 is identical to CS 3750 content-wise, with the different course number indicating its new format of shorter lectures and an addition of a two-hour weekly design studio. At the moment, CS 3750 is not offered. For the purposes of the People requirement, CS 3750 and CS 3873 are the same course.

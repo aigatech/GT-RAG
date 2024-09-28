@@ -1,0 +1,18 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/User:Alexp
+Title: User:Alexp
+Content:
+	Hi, I'm the sysadmin of this wiki
+	I graduated BSCS Spring 2022 with the intelligence/sysarch concentrations "threads"
+	Starting MSCS in Fall 2022.
+	Feel free to email me with questions/concerns. Or, contact me on Discord: Alex P#5251
+	Some pages I created for my favorite courses:
+	Other students created a lot more course pages here: Category:Courses
+	Sandbox:
+Bullet Points:
+	- CS 3210 (Intro to Operating Systems)
+	- CS 6290 (High-Performance Computer Architecture)
+Table:
+	CS 6290
+	Course Links
+	Course Critique
+	OSCAR Fall 2023

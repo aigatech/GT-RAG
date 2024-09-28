@@ -1,0 +1,7 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/College_of_Computing
+Title: College of Computing
+Content:
+	This page is a stub. You can improve the Georgia Tech Student Wiki by expanding it :)
+	The College of Computing is one of the six primary colleges at Georgia Tech.
+	The College of Computing houses five schools - the School of Computing Instruction, the School of Computational Science and Engineering, the School of Computer Science, the School of Cybersecurity and Privacy, and the School of Interactive Computing.
+	As of Fall 2020, the College of Computing has a total enrollment of 15,245 students, consisting of 3,309 undergrads, 1,377 on-campus MS & PhD students, and 10,559 OMSCS students.[1]

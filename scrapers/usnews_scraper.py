@@ -9,6 +9,29 @@ class USNewsScraper(BaseScraper):
     information.
     """
 
+    # Extensive reject list to filter out irrelevant URLs
+    rejectList = [
+        "/my-account", "/login", "/register", "mailto:", "javascript:void(0)", "/terms-of-service",
+        "/privacy-policy", "/contact-us", "/newsletter", "/about-us", "/careers", "/advertise", "/press",
+        "/store", "/site-map", "/faqs", "/subscriptions", "/privacy", "/terms", "/feedback", "/mobile",
+        "/rss", "/copyright", "/site-index", "/security", "/do-not-sell", "/cookie-policy",
+        "/newsletter-signup", "/disclosures", "/disclaimer", "/forbidden", "/error", "/video", "/photos",
+        "/slideshows", "/rankings", "/news", "/opinion", "/travel", "/health", "/money", "/education",
+        "/cars", "/best-colleges/rankings", "/best-graduate-schools", "/education/online-education",
+        "/education/best-high-schools", "/education/best-global-universities", "/best-colleges?school-name=",
+        "/best-colleges/search", "/search", "/directory", "/compare", "/find-a-school", "/financial-aid",
+        "/student-life", "/academics", "/crime-safety", "/campus-info", "/save", "/save-school", "/user",
+        "/scholarship-search", "/scholarships", "/college-application", "/paying-for-college", 
+        "/college-rankings", "/college-finder", "/ask-experts", "/blog", "/donottrack", "/settings",
+        "/unsubscribe", "/help", "/shop", "/gift-subscriptions", "/coupons", "/custom-content", 
+        "/subscription", "/articles", "/home", "/weather", "/business", "/people", "/topics", "/policy",
+        "/politics", "/events", "/world-report", "/article", "/tag", "/videos", "/press-room", 
+        "/publications", "/author", "/partners", "/categories", "/collections", "/membership", 
+        "/offers", "/galleries", "/media-kit", "/email", "/404", "/500", "facebook.com", "twitter.com", 
+        "linkedin.com", "instagram.com", "youtube.com", "pinterest.com", "plus.google.com", 
+        "accounts.usnews.com",
+    ]
+
     def __init__(self):
         """
         Initializes the USNewsScraper with the base URL of U.S. News.
@@ -30,8 +53,14 @@ class USNewsScraper(BaseScraper):
         if url in self.visited_urls:
             return
 
+        self.visited_urls.add(url)
+
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+        }
+
         try:
-            response = requests.get(url)
+            response = requests.get(url, headers=headers, timeout=10)
             response.raise_for_status()
 
             soup = BeautifulSoup(response.content, 'html.parser')
@@ -66,7 +95,25 @@ class USNewsScraper(BaseScraper):
                 tables.append(table_data)
             data['tables'] = tables
 
-            self.visited_urls.add(url)
+            # Recursively scrape internal links
+            for link in soup.find_all('a', href=True):
+                next_url = link['href']
+                # Check if the URL is absolute or relative
+                if next_url.startswith('/'):
+                    next_url = self.base_url + next_url
+                elif not next_url.startswith('http'):
+                    continue  # Skip malformed URLs
+
+                # Reject any unwanted URLs
+                if any(substring in next_url for substring in self.rejectList):
+                    logging.info(f"Skipping URL: {next_url}")
+                    continue
+
+                # Only process URLs that start with the base URL and haven't been visited
+                if next_url.startswith(self.base_url) and next_url not in self.visited_urls:
+                    logging.info(f"Recursively scraping: {next_url}")
+                    self.scrape(next_url)
+
             return data
 
         except requests.exceptions.RequestException as e:

@@ -1,0 +1,153 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/MATH_2551
+Title: MATH 2551 - Multivariable Calculus
+Content:
+	MATH 2551 covers limits, differentiation, and integration of functions with more than one input and/or output.  It is a requirement for engineering majors.
+	* Topic not covered in MATH 2550
+	MATH 2551 is a core math class focused more on computation than pure theory. Typical problems can be quite lengthy, especially towards the end of the course.
+	Single variable calculus is an important prerequisite for MATH 2551. Multivariable calculus applies single variable calculus concepts such as limits, derivatives, and integrals to functions with more than one input and/or output. Multivariable calculus should not be seen as the next course in a linear sequence of calculus courses; rather, it should be seen as an outward expansion of all single variable calculus topics. For example, while no new integration techniques are introduced in multivariable calculus, with the exception of the Jacobian, the concept of integration is extended in multivariable calculus by applying it to 2D and 3D regions in new coordinate systems.
+	Although linear algebra is listed as a prerequisite for MATH 2551, topics that require prior knowledge of linear algebra are rarely seen in MATH 2551. For example, while multiple topics in MATH 2551 use vectors extensively, vectors are reviewed at the beginning of the course, making prior knowledge of vectors unrequired. However, linear algebra does provide a more theoretical background for concepts such as the dot product and matrix determinant, which may be helpful for MATH 2551.
+	MATH 2551 is required by most engineering and science majors. It is also a prerequisite itself for many classes required by engineering and science majors. Due to its prerequisites, MATH 2551 is generally taken sometime between late freshmen year and early sophomore year.
+Bullet Points:
+	- 1 Topic List
+	- 2 Class Structure
+	- 3 Prerequisite Knowledge
+
+3.1 Single Variable Calculus
+3.2 Linear Algebra
+	- 3.1 Single Variable Calculus
+	- 3.2 Linear Algebra
+	- 4 Scheduling
+
+4.1 Equivalent Courses
+	- 4.1 Equivalent Courses
+Bullet Points:
+	- 3.1 Single Variable Calculus
+	- 3.2 Linear Algebra
+Bullet Points:
+	- 4.1 Equivalent Courses
+Bullet Points:
+	- 3D Coordinates and Vectors
+3D Coordinates
+Vectors
+The Dot Product
+The Cross Product
+Lines and Planes
+Cylinders and Quadric Surfaces
+	- 3D Coordinates
+	- Vectors
+	- The Dot Product
+	- The Cross Product
+	- Lines and Planes
+	- Cylinders and Quadric Surfaces
+Bullet Points:
+	- 3D Coordinates
+	- Vectors
+	- The Dot Product
+	- The Cross Product
+	- Lines and Planes
+	- Cylinders and Quadric Surfaces
+Bullet Points:
+	- Vector Functions
+Domain, Limits, and Continuity
+Derivatives
+Integrals and Projectile Motion
+Arc Length
+Curvature and Normal Vectors
+Tangential and Normal Components of Acceleration
+Velocity and Acceleration in Polar Coordinates
+	- Domain, Limits, and Continuity
+	- Derivatives
+	- Integrals and Projectile Motion
+	- Arc Length
+	- Curvature and Normal Vectors
+	- Tangential and Normal Components of Acceleration
+	- Velocity and Acceleration in Polar Coordinates
+Bullet Points:
+	- Domain, Limits, and Continuity
+	- Derivatives
+	- Integrals and Projectile Motion
+	- Arc Length
+	- Curvature and Normal Vectors
+	- Tangential and Normal Components of Acceleration
+	- Velocity and Acceleration in Polar Coordinates
+Bullet Points:
+	- Multivariable Functions and Partial Derivatives
+Multivariable Functions
+Limits and Continuity
+Partial Derivatives
+Chain Rule
+Directional Derivatives and Gradient
+Tangent Planes and Differentials
+Extreme Values
+Lagrange Multipliers
+Taylor Polynomials
+Partial Derivatives with Constrained Variables
+	- Multivariable Functions
+	- Limits and Continuity
+	- Partial Derivatives
+	- Chain Rule
+	- Directional Derivatives and Gradient
+	- Tangent Planes and Differentials
+	- Extreme Values
+	- Lagrange Multipliers
+	- Taylor Polynomials
+	- Partial Derivatives with Constrained Variables
+Bullet Points:
+	- Multivariable Functions
+	- Limits and Continuity
+	- Partial Derivatives
+	- Chain Rule
+	- Directional Derivatives and Gradient
+	- Tangent Planes and Differentials
+	- Extreme Values
+	- Lagrange Multipliers
+	- Taylor Polynomials
+	- Partial Derivatives with Constrained Variables
+Bullet Points:
+	- Double and Triple Integrals
+Double Integrals
+Double Integrals in Polar Coordinates
+Triple Integrals
+Applications
+Triple Integrals in Cylindrical and Spherical Coordinates
+Integration by Substitution
+	- Double Integrals
+	- Double Integrals in Polar Coordinates
+	- Triple Integrals
+	- Applications
+	- Triple Integrals in Cylindrical and Spherical Coordinates
+	- Integration by Substitution
+Bullet Points:
+	- Double Integrals
+	- Double Integrals in Polar Coordinates
+	- Triple Integrals
+	- Applications
+	- Triple Integrals in Cylindrical and Spherical Coordinates
+	- Integration by Substitution
+Bullet Points:
+	- Vector Fields and Integration*
+Line Integrals of Scalar Fields*
+Line Integrals of Vector Fields*
+Conservative Vector Fields and Potential Functions*
+Green's Theorem*
+Parametric Surfaces*
+Surface Integrals*
+Stokes' Theorem and Divergence Theorem*
+	- Line Integrals of Scalar Fields*
+	- Line Integrals of Vector Fields*
+	- Conservative Vector Fields and Potential Functions*
+	- Green's Theorem*
+	- Parametric Surfaces*
+	- Surface Integrals*
+	- Stokes' Theorem and Divergence Theorem*
+Bullet Points:
+	- Line Integrals of Scalar Fields*
+	- Line Integrals of Vector Fields*
+	- Conservative Vector Fields and Potential Functions*
+	- Green's Theorem*
+	- Parametric Surfaces*
+	- Surface Integrals*
+	- Stokes' Theorem and Divergence Theorem*
+Bullet Points:
+	- MATH 2550 is the introduction equivalent, which does not cover the final unit of MATH 2551, vector fields and integration.
+	- MATH 2561 is the honors equivalent, which includes additional topics and goes into more depth in general.

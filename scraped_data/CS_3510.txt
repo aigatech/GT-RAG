@@ -1,0 +1,53 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_3510
+Title: CS 3510
+Content:
+	CS 3510, formally known as Design and Analysis of Algorithms, is a 3-credit Computer Science class taken as a thread requirement for six of the eight CS threads. Unlike CS 1332, which goes over a suite of specific algorithms, CS 3510 goes over broader categories of algorithms and algorithm design techniques, and in addition it teaches proof of correctness and proof of efficiency for algorithms. It is preceded by CS 1332 and CS 2050/CS 2051 or MATH 3012. It is succeeded by CS 4510, CS 4540, MATH 4150, CS 6515, and CS 4803/CS 4644.
+	Textbooks used in this course in the past have included:
+	As CS 3510 is an algorithms course, a working knowledge of basic sorting and graph algorithms is suggested. A good understanding of mergeSort and Djikstra's Single-Source Shortest-Path algorithm is a useful benchmark in assessing algorithms knowledge for the class.
+	While there is no explicit programming in this class, a lot of algorithms are written in psuedocode, and thus, a knowledge of basic data structures and how they work is essential. In particular, arrays, trees, and graphs are the most important data structures for success in the class.
+	An understanding of basic Set Theory, Big-O bounds, and fundamental number theory (Euclid's Algorithm, Fast Exponentiation) is useful for success in the class. Big-O is absolutely critical, while the other two are useful and will help, but are not required.
+	An understanding of graph theory and recurrences is absolutely essential for CS 3510. In addition, basic combinatorial mathematics (such as permutations and combinations) is useful for the class.
+	Basic proof writing at the level of CS 2050/MATH 2106 is suggested, but extensive proof writing experience is not required. Most of the arguments in the class are more high-level than formal proof writing, but this varies by semester and professor.
+	CS 3510 is the introductory course in the design and Analysis of Algorithms. The course is more math-based, and unlike most courses, it programs exclusively in pseudocode.
+	For Theory and Intelligence threads, CS 3510 is an important prerequisite for the theory courses for the two threads, namely CS 4510, and CS 4540.
+	In order to register for the course, you must register under a certain section as depicted by letters (A, B, C...).
+Bullet Points:
+	- 1 Workload
+	- 2 Topic List
+	- 3 Prerequisite Knowledge
+
+3.1 Algorithms
+3.2 Data Structures
+3.3 Discrete Mathematics
+3.4 Combinatorial Mathematics
+3.5 Proof Writing
+	- 3.1 Algorithms
+	- 3.2 Data Structures
+	- 3.3 Discrete Mathematics
+	- 3.4 Combinatorial Mathematics
+	- 3.5 Proof Writing
+	- 4 Future Outlook
+	- 5 Current Registration Info
+
+5.1 Prerequisites
+	- 5.1 Prerequisites
+	- 6 Resources
+Bullet Points:
+	- 3.1 Algorithms
+	- 3.2 Data Structures
+	- 3.3 Discrete Mathematics
+	- 3.4 Combinatorial Mathematics
+	- 3.5 Proof Writing
+Bullet Points:
+	- 5.1 Prerequisites
+Bullet Points:
+	- Algorithms by Dasgupta, Papadimitriou, and Vazirani (used by Professor Vigoda, Spring 2020)[1]
+	- Algorithm Design by Kleinberg and Tardos (used by Professor Dovrolis, Spring 2020)[2]
+Bullet Points:
+	- CS 2050/2051/2106 (min. grade of C)
+	- CS 1332 (min. grade of C) or MATH 3012/3022 (min. grade of D)
+Bullet Points:
+	- CS 3510: Design and Analysis of Algorithms (Fall 2017): click here
+	- CS 3510: Design and Analysis of Algorithms (Spring 2020, Vigoda): click here
+	- CS 3510: Design and Analysis of Algorithms (Spring 2020, Dovrolis): click here
+	- Oscar Details: click here

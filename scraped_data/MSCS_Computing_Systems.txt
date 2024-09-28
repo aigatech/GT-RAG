@@ -1,0 +1,47 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/MSCS_Computing_Systems
+Title: MSCS Computing Systems
+Content:
+	For MSCS Systems Specialization, these are the requirements:
+	(Please see the official page for more accurate/reliable information)
+	*Must be taught by School of Computer Science Faculty[1]
+Table:
+	Core Courses
+	Algorithms Requirement	|	Pick 1
+	CS 6505	|	Computability, Algorithms, and Complexity
+	CS 6515	|	Intro to Graduate Algorithms
+	Core Requirement	|	Pick 2
+	CS 6210	|	Advanced Operating Systems
+	CS 6241	|	Compiler Design
+	CS 6250	|	Computer Networks
+	CS 6290	|	High-Performance Computer Architecture
+	CS 6300 OR CS 6301	|	Software Development Process OR Advanced Topics in Software Engineering
+	CS 6390	|	Programming Languages
+	CS 6400	|	Database Systems Concepts and Designs
+	Electives
+	Elective Option	|	Pick 3
+	CS 6035	|	Intro to Information Security
+	CS 6200	|	Graduate Intro to Operating Systems
+	CS 6220	|	Big Data Systems and Analytics
+	CS 6235	|	Real Time Systems
+	CS 6238	|	Secure Computer Systems
+	CS 6260	|	Applied Cryptography
+	CS 6262	|	Network Security
+	CS 6263	|	Intro to Cyber-Physical Systems Security
+	CS 6291	|	Embedded Software Optimization
+	CS 6310	|	Software Architecture and Design
+	CS 6230	|	Software Analysis and Testing
+	CS 6365	|	Intro to Enterprise Computing
+	CS 6422	|	Database System Implementation
+	CS 6550	|	Design and Analysis of Algorithms
+	CS 6675	|	Advanced Internet Computing Systems and Applications
+	CS 7210	|	Distributed Computing
+	CS 7260	|	Internetworking Architectures and Protocols
+	CS 7270	|	Networked Applications and Services
+	CS 7280	|	Network Science
+	CS 7290	|	Advanced Topics in Microarchitecture
+	CS 7292	|	Reliability and Security in Computer Architecture
+	CS 7560	|	Theory of Cryptography
+	CS 8803 FPL	|	Special Topics: Foundations of Programming
+	CSE 6220	|	High Performance Computing
+	CS 8803*	|	Special Topics Course
+*Must be taught by School of Computer Science Faculty[1]

@@ -1,0 +1,40 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_2050
+Title: CS 2050 - Introduction to Discrete Mathematics
+Content:
+	CS 2050, formally known as Introduction to Discrete Mathematics, is a 3-credit Computer Science class taken as a core requirement for Computer Science, Computational Media, and Computer Engineering majors. It provides a basic introduction to pure mathematical concepts useful in Computer Science, basic proof writing techniques, and discrete structures common in Computer Science. It is succeeded by MATH 3012.
+	Like other core CS and Math classes, CS 2050 primarily consists of homework assignments and a set of exams.
+	Homework assignments are generally split into two categories: a set of problems through the online textbook (similar to MyMathLab in the MATH core sequence), as well as weekly or bi-weekly problem sets. The online textbook homework generally reinforces basic concepts, while the problem sets tend to be slightly more challenging.
+	Exams test concepts covered in class through multiple choice, short answer, and proof based questions.
+	
+	The topics covered in the course are as follows:
+	Very basic programming exposure is required for this course, as a bit of pseudocode will be written during the algorithms section.
+	Only basic algebra is required for this course, no calculus is necessary. However, exposure to linear algebra can be useful, especially during the discussion of injective, surjective, and bijective functions, but this is absolutely not required.
+	CS 2050 is simply a core requirement for Computer Engineers, and no class requires it (other than CS 3510 for CompE students with CS threads). On the other hand, for CS majors, especially for those with either the Intelligence or Theory threads, CS 2050 is the start to a major prerequisite chain. CS 2050 acts as a prerequisite for CS majors for MATH 3012, and is one of the prerequisites for CS 3510, both of which are prerequisites for theory classes for both the Intelligence and Theory threads, as well as the Theory Thread's Advanced Math Elective.
+	CS 2050 is not a linked course but has an optional Recitation. You must only register for the lecture section (marked with an A, B, C, etc.). Then you have the option (although its recommended) to register for the recitation section, which is under a different course number: CS 2050R. If you decide to register for recitation, you must register for a recitation section with the same leading letter (e.g. if you register for lecture section CS 2050 A, you must register for recitation section CS 2050R A01, A02, etc.).
+	None! CS 2050 can be taken as a first year class.
+	CS 2051 is the equivalent honors section of discrete math. It gives equivalent credit.
+	CS 2051 goes over all of the CS 2050 topics at a higher level, and covers more topics as well. Assignments are generally more difficulty. If you love math and have an interest in learning discrete math at a higher level, consider taking CS 2051. Note that neither CS 2050 nor CS 2051 expect knowledge of proofs in any form.
+	CS 2051 is suggested for those considering either the Intelligence or Theory threads. If you are unsure on whether you would like one of those threads, but do love math, consider taking CS 2051.
+Bullet Points:
+	- 1 Workload
+	- 2 Topics List
+	- 3 Prerequisite Knowledge
+
+3.1 Programming
+3.2 Mathematics
+	- 3.1 Programming
+	- 3.2 Mathematics
+	- 4 Future Outlook
+	- 5 Registration
+
+5.1 Prerequisites
+5.2 Equivalent Courses
+	- 5.1 Prerequisites
+	- 5.2 Equivalent Courses
+	- 6 Resources
+Bullet Points:
+	- 3.1 Programming
+	- 3.2 Mathematics
+Bullet Points:
+	- 5.1 Prerequisites
+	- 5.2 Equivalent Courses

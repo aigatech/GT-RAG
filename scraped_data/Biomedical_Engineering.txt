@@ -1,0 +1,31 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Biomedical_Engineering
+Title: Biomedical Engineering
+Content:
+	Biomedical Engineering is a Bachelor's of Science program offered by the Georgia Institute of Technology. Located within the College of Engineering, one of the six major colleges that make up Georgia Tech, it is one of the most reputable biomedical engineering programs nationally and worldwide for both the undergraduate and graduate levels. As of the 2024-2025 US News and World Report, Georgia Tech is #2 for best undergraduate biomedical engineering programs in the country[1].
+Table:
+	General Core
+	Course	|	Description
+	APPH 1040/1050/1060	|	Wellness (2)
+	ENGL 1101, 1102	|	English Composition I, II (6)
+	PHYS 2211, 2212	|	Physics I, II with lab (8)
+	CHEM 1310[2]	|	General Chemistry with Lab (4)
+	MATH 1551, 1552	|	Differential Calculus, Integral Calculus (6)
+	MATH 1553[3]	|	Linear Algebra Requirement (2)
+	History/Government[4]	|	History/Gov Requirement (3)
+	Economics[5]	|	COE Economics Requirement (3)
+	Humanities	|	Humanities Electives (6)
+	Social Sciences	|	Social Science Electives (6)
+	General Engineering Courses
+	Course	|	Description
+	CS 1371	|	Computing for Engineers(2)
+	COE 2001	|	Statics (2)
+	MATH 2551	|	Multivariable Calculus (4)
+	MATH 2552	|	Differential Equations (4)
+	ECE 3710	|	Circuits and Electronics (2)
+	ECE 3741	|	Instrumentation and Electronics Lab (1)
+	MSE 2001	|	Prin&Appl of Engineering Materials (3)
+	CEE 3770 or ISYE 3770 or BMED 2400	|	Statistics (3)
+	Chem 1315	|	Survey of Organic Chemistry (3)
+	Biomedical Engineering Courses
+	Course	|	Description
+	BME 1000	|	Intro to Biomedical engineering

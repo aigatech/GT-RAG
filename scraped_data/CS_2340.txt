@@ -1,0 +1,49 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_2340
+Title: CS 2340
+Content:
+	CS 2340, formally known as Objects and Design, is a 3-credit Computer Science project-based class taken as a core requirement for College of Computing majors. It provides a high-level overview of software engineering principles, such as the development process, testing, design patterns, and object-oriented design. It is currently taught in Java. It is immediately preceded by CS 1331, and is followed by the CS Junior Design sequence.
+	As CS 2340 is a project-based class, there are only two components to the class: the course project and exams.
+	Exams test knowledge of concepts in class through multiple choice questions and design diagrams. Every exam will have a diagramming component of some form, including the final.
+	The course project is a chance to apply course topics into a real coding project. The theme of the project will vary by semester, and occasionally, the language will as well. Projects are done in groups of 2-5 and are structured in a sprint-style.
+	Topics covered in the course include:
+	Note: This applies to the Java versions of 2340, which has been the case since 2019.
+	As CS 2340 has CS 1331 as a prerequisite, CS 2340 expects high knowledge of Java programming and a basic understanding Object-Oriented Principles, such as encapsulation, inheritance, overloading, overriding, and polymorphism. Some versions of the class also expect basic familiarity with JavaFX and JARs. While the class will not expect knowledge of the fine details of Java like CS 1331 did, experience similar to what's expected in CS 1332 is needed as all programming is done in Java.
+	As of Fall 2022, the stack alternates between JavaFX in the fall and Android Studio in the spring.
+	CS 2340 is not a prerequisite for many CS classes. It only serves as a prerequisite for CS 4240 (Compilers), which is only required for the Systems and Architecture thread.
+	CS 2340 is however, a prerequisite for the standard Junior Design option, as that is an even more enhanced software design experience.
+	CS 2340 is not a linked course, nor does it have a Recitation. This means you solely have to register for the lecture (e.g. Section A, B, C, etc.).
+	Note that your project team may have to meet at TA office hours to get milestone checkoffs, but there are usually many time slots available.
+	The sole prerequisite is a C or higher in CS 1331.
+	There were two main projects made using Android SDK (in Java) for this class:
+	While another section made:
+	The project that was assigned for the Spring 2021 semester was a Dungeon Crawler game using the JavaFX framework in Java. An example can be found below.
+	Example 1
+	The project for Fall 2020 was a Farm Simulator, again using JavaFX and Java.
+Bullet Points:
+	- 1 Workload
+	- 2 Topics List
+	- 3 Prerequisite Knowledge
+
+3.1 Programming
+	- 3.1 Programming
+	- 4 Future Outlook
+	- 5 Current Registration Info
+
+5.1 Prerequisites
+	- 5.1 Prerequisites
+	- 6 Resources
+
+6.1 Spring 2024
+6.2 Spring 2021: Dungeon Crawler
+6.3 Fall 2020: Farming Simulator
+	- 6.1 Spring 2024
+	- 6.2 Spring 2021: Dungeon Crawler
+	- 6.3 Fall 2020: Farming Simulator
+Bullet Points:
+	- 3.1 Programming
+Bullet Points:
+	- 5.1 Prerequisites
+Bullet Points:
+	- 6.1 Spring 2024
+	- 6.2 Spring 2021: Dungeon Crawler
+	- 6.3 Fall 2020: Farming Simulator

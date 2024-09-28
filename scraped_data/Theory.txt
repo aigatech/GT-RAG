@@ -1,0 +1,27 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/Theory
+Title: Theory
+Content:
+	The Theory thread is one of the eight threads available to undergraduate Computer Science majors and minors.
+	The theory thread deals with the mathematical logic that underlies computer science; in a sense, along with the Systems and Architecture thread, it is Computer Science in its purest form. Thread topics include courses in combinatorial mathematics, linear algebra, algorithm design, and the theory of computation. The thread is also rounded out with a class on computer organization (oddly, a Systems class).
+	For majors who decide to do theory as one of their two threads, the requirements are below:
+	It is important to note that the College of Computing strongly recommends taking CS 3511 for your algorithms class if you decide to pursue the Theory thread, as it will more strongly prepare you for the 4xxx-level CS and math classes found in the thread, and contains topics that may be of greater interest to Theory threads.
+	For non-majors who elect to do the Computing and Theory minor, the requirements are below:
+	Before announcing your intention to declare the minor, you must take and pass CS 1331 with a B or higher. Else, you will not be allowed to continue in, or declare, the minor.
+Table:
+	Degree Requirements
+	Course	|	Description
+	CS 2110	|	Computer Organization and Programming (4)
+	CS 3510/3511	|	Algorithms Requirement (3)
+	CS 4510	|	Automata and Complexity Theory (3)
+	CS 4540	|	Advanced Algorithms (3)
+	MATH 3406	|	A Second Course on Linear Algebra (3)
+	MATH 4022 or MATH 4032 or MATH 4150	|	Advanced Math Elective (3)
+Table:
+	Minor Requirements
+	Course	|	Description
+	CS 1331	|	Introduction to Object Oriented Programming (3)
+	CS 1332	|	Data Structures and Algorithms (3)
+	CS 2050/2051	|	Discrete Mathematics Requirement (3)
+	CS 3510/3511	|	Algorithms Requirement (3)
+	CS 4510	|	Automata and Complexity Theory (3)
+	CS 4540	|	Advanced Algorithms (3)

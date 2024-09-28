@@ -1,0 +1,54 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/CS_2051
+Title: CS 2051 - Honors Introduction to Discrete Mathematics
+Content:
+	CS 2051, formally known as Honors Introduction to Discrete Mathematics, is a 3-credit Computer Science class taken as a core requirement for Computer Science majors. It serves as an advanced alternative to the standard discrete math option of CS 2050. It provides a detailed overview of common and uncommon discrete structures used in computing, as well as methods of proof key to the design and analysis of various algorithms. It is immediately succeeded by MATH 3012.
+	Unlike its non-honors counterpart, CS 2051 is more in the style of 3000-level math classes. Problem sets are given once a week and generally lean on the moderate to very difficult side. On average these will take north of 3 hours to complete, and collaboration is strongly encouraged.
+	There are a total of three exams in the class: two midterms and a final. These assess the mastery of material through both multiple choice as well as proof-writing questions.
+	Like CS 2050, proof writing skill is not expected for students in this class. However, unlike CS 2050, the class does expect its students to master proof writing fairly quickly. Problem sets and exams generally asks for more proofs compared to CS 2050, and more of the class content is dedicated to proving and deriving relationships.
+	As with a typical honors class, CS 2051 goes into a couple extra topics compared to CS 2050. The topics exclusive to CS 2051 are marked with an asterisk.
+	Very basic programming exposure is required for this course, as a bit of pseudocode will be written during the algorithms section. However, unlike CS 2050, some algorithms knowledge is also helpful, as runtime analyses of common algorithms like linear search and binary search are performed.
+	Only basic algebra is required for this course, no calculus is necessary. However, exposure to linear algebra can be useful, especially during the discussion of injective, surjective, and bijective functions, but this is absolutely not required.
+	No proofs knowledge is also required for this course, even though it is significantly more proofs heavy.
+	CS 2051 is an optional advanced version of CS 2050 for CS majors. For those with either the Intelligence or Theory threads, CS 2051 might be a useful alternative to CS 2050 due to the heavy math and proofs nature of those threads (although Intelligence is remarkably lighter on proofs compared to Theory).
+	Otherwise, like CS 2050, CS 2051 is the start to a major prerequisite chain. CS 2051 acts as a prerequisite for CS majors for MATH 3012, and is one of the prerequisites for CS 3510, both of which are prerequisites for theory classes for both the Intelligence and Theory threads, as well as the Theory Thread's Advanced Math Elective.
+	CS 2051 is also one of the prerequisites for daring CS majors willing to take MATH 3235 for their probability and statistics option. Do note that CS 2050 will NOT meet this prerequisite.
+	CS 2051 is not a linked course, and unlike CS 2050, has no Recitation. Thus, you must only register for the lecture section (marked with an A, B, C, etc.)
+	Key Registration Footnote:
+	None! CS 2051 can be taken as a first year class.
+	CS 2050 is the equivalent non-honors section of discrete math. It gives equivalent credit. If you do not like math or do not consider yourself strong at math, it is strongly recommended to take CS 2050.
+	The advanced topics in Spring 2021 included:
+Bullet Points:
+	- 1 Workload
+	- 2 Topics List
+	- 3 Prerequisite Knowledge
+
+3.1 Programming
+3.2 Mathematics
+	- 3.1 Programming
+	- 3.2 Mathematics
+	- 4 Future Outlook
+	- 5 Registration
+
+5.1 Prerequisites
+5.2 Equivalent Courses
+	- 5.1 Prerequisites
+	- 5.2 Equivalent Courses
+	- 6 Resources
+
+6.1 Spring 2021
+	- 6.1 Spring 2021
+Bullet Points:
+	- 3.1 Programming
+	- 3.2 Mathematics
+Bullet Points:
+	- 5.1 Prerequisites
+	- 5.2 Equivalent Courses
+Bullet Points:
+	- 6.1 Spring 2021
+Bullet Points:
+	- Please note that CS 2051 is not offered regularly. Please check the future course plan on the CoC website, found here, to gain a rough idea as to when this course will be offered.
+	- CS 2051 was last offered in: Fall 2021, Spring 2021, Spring 2020, Spring 2022
+	- It will be offered next in Spring 2023 (not Fall 2022)
+Bullet Points:
+	- Recursive Counting and Recurrence Relations
+	- Generating Functions

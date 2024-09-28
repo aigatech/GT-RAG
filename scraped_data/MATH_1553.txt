@@ -1,0 +1,31 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/MATH_1553
+Title: MATH 1553
+Content:
+	MATH 1553 is a 2 credit core math class in linear algebra.
+	Almost no prerequisite knowledge is required, apart from algebra and trigonometry.
+	MATH 1553 does not give credit for MATH 1554 or 1564.
+	MATH 1553 is a linked course with a studio and shared test period.
+Bullet Points:
+	- 1 Topic List
+	- 2 Prerequisite Knowledge
+	- 3 Equivalent Courses
+	- 4 Registration
+	- 5 Resources
+Bullet Points:
+	- Systems of Linear Equations
+	- Vectors in Rn
+	- Linear Independence and Transformations
+	- Matrix Algebra
+	- Subspaces in Rn
+	- Determinants
+	- Eigenvalues and Eigenvectors (includes Complex Eigenvalues if time permits)
+	- Orthogonality
+	- Symmetric Matrices
+Bullet Points:
+	- MATH 1554 is a much more in-depth course that covers additional topics such as singular value decomposition (SVD).
+	- MATH 1564 is the honors equivalent, which uses proofs and is more theoretical than MATH 1553.
+Bullet Points:
+	- The course page for MATH 1553 provides information about the course.
+	- https://gatech.instructure.com/courses/114544 provides a set of videos and old exams for MATH 1554. Since MATH 1554 covers all the topics in MATH 1553, this resource can easily be used for MATH 1553 as well.
+	- Interactive Linear Algebra is a free online, interactive textbook made by Georgia Tech professors for MATH 1553.
+	- 3blue1brown Essence of Linear Algebra Video Series provides a nice conceptual overview of linear algebra. The video series uses visuals and animations extensively.

@@ -1,0 +1,253 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/MATH_2552
+Title: MATH 2552 - Differential Equations
+Content:
+	MATH 2552 covers ordinary differential equations and Laplace transforms.
+	MATH 2552 is a core math class focused more on computation than pure theory.
+	At the beginning of the course, Chen posts a comprehensive course schedule that contains all topics, lecture notes, and textbook exercises. In addition, Chen makes lectures and studios optional, allowing the course to be easily self-studied. Chen's quizzes and exams tend to be straightforward, containing problems very similar to the textbook examples, if not easier.
+	Single variable calculus is used extensively throughout MATH 2552. Differential equations is often considered to be another calculus course, and uses differentiation and/or integration in almost every topic. Partial fraction decomposition is used frequently when working with Laplace transforms.
+	Linear algebra is also used extensively throughout MATH 2552. Eigenvalues and eigenvectors are used to analyze systems of differential equations and second order linear differential equations. Other linear algebra topics, such as row reduction, linear combinations, and linear independence are also used in the analysis of these types of differential equations.
+	MATH 2552 is required by most engineering and science majors, and it is also required for the modsim thread in cs. It is a prerequisite itself for many classes required by engineering and science majors. Due to its prerequisites, MATH 2552 is generally taken sometime between late freshmen year and early sophomore year.
+Bullet Points:
+	- 1 Topic List
+	- 2 Class Structure
+
+2.1 Chen
+	- 2.1 Chen
+	- 3 Prerequisite Knowledge
+
+3.1 Single Variable Calculus
+3.2 Linear Algebra
+	- 3.1 Single Variable Calculus
+	- 3.2 Linear Algebra
+	- 4 Scheduling
+
+4.1 Equivalent Courses
+	- 4.1 Equivalent Courses
+	- 5 Resources
+Bullet Points:
+	- 2.1 Chen
+Bullet Points:
+	- 3.1 Single Variable Calculus
+	- 3.2 Linear Algebra
+Bullet Points:
+	- 4.1 Equivalent Courses
+Bullet Points:
+	- Introduction
+Mathematical Models
+Direction Fields
+Classification of Differential Equations
+	- Mathematical Models
+	- Direction Fields
+	- Classification of Differential Equations
+	- First Order Equations
+Separable Equations
+Linear Equations
+Modeling
+Solution Structures
+Intervals of Existence
+Autonomous Equations
+Population Dynamics
+Phase Portraits
+Stability of Solutions
+	- Separable Equations
+	- Linear Equations
+	- Modeling
+	- Solution Structures
+Intervals of Existence
+	- Intervals of Existence
+	- Autonomous Equations
+Population Dynamics
+Phase Portraits
+Stability of Solutions
+	- Population Dynamics
+	- Phase Portraits
+	- Stability of Solutions
+	- Linear Systems of First Order Equations
+Two-Dimensional Systems
+n-Dimensional Systems
+Homogenous Systems with Constant Coefficients
+Distinct Real Nonzero Eigenvalues
+Zero Eigenvalues
+Complex Eigenvalues
+Repeated Real Eigenvalues
+Phase Portraits
+Shifted Systems
+Salt in Several Tanks
+Electric Circuits
+	- Two-Dimensional Systems
+	- n-Dimensional Systems
+	- Homogenous Systems with Constant Coefficients
+Distinct Real Nonzero Eigenvalues
+Zero Eigenvalues
+Complex Eigenvalues
+Repeated Real Eigenvalues
+Phase Portraits
+	- Distinct Real Nonzero Eigenvalues
+	- Zero Eigenvalues
+	- Complex Eigenvalues
+	- Repeated Real Eigenvalues
+	- Phase Portraits
+	- Shifted Systems
+Salt in Several Tanks
+Electric Circuits
+	- Salt in Several Tanks
+	- Electric Circuits
+	- Second Order Linear Equations
+Homogenous Equations
+Homogenous Equations with Constant Coefficients
+Distinct Real Nonzero Eigenvalues
+Complex Eigenvalues
+Repeated Eigenvalues
+Zero Eigenvalues
+Free Vibrations
+Nonhomogeneous Equations
+Method of Undetermined Coefficients
+Variation of Parameters
+Forced Vibrations
+	- Homogenous Equations
+	- Homogenous Equations with Constant Coefficients
+Distinct Real Nonzero Eigenvalues
+Complex Eigenvalues
+Repeated Eigenvalues
+Zero Eigenvalues
+	- Distinct Real Nonzero Eigenvalues
+	- Complex Eigenvalues
+	- Repeated Eigenvalues
+	- Zero Eigenvalues
+	- Free Vibrations
+	- Nonhomogeneous Equations
+Method of Undetermined Coefficients
+Variation of Parameters
+	- Method of Undetermined Coefficients
+	- Variation of Parameters
+	- Forced Vibrations
+	- The Laplace Transform
+The Inverse Laplace Transform
+Solving Differential Equations
+Discontinuous Functions
+Periodic Functions
+Impulse Functions
+Convolution
+	- The Inverse Laplace Transform
+	- Solving Differential Equations
+	- Discontinuous Functions
+	- Periodic Functions
+	- Impulse Functions
+	- Convolution
+	- Nonlinear Systems
+Stability
+Almost Linear Systems
+Competing Species
+Predator-Prey Systems
+Lorenz Attractor
+	- Stability
+	- Almost Linear Systems
+	- Competing Species
+	- Predator-Prey Systems
+	- Lorenz Attractor
+	- Numerical Methods
+Euler's Method
+Improved Euler's Method
+Runge-Kutta Method
+	- Euler's Method
+	- Improved Euler's Method
+	- Runge-Kutta Method
+Bullet Points:
+	- Mathematical Models
+	- Direction Fields
+	- Classification of Differential Equations
+Bullet Points:
+	- Separable Equations
+	- Linear Equations
+	- Modeling
+	- Solution Structures
+Intervals of Existence
+	- Intervals of Existence
+	- Autonomous Equations
+Population Dynamics
+Phase Portraits
+Stability of Solutions
+	- Population Dynamics
+	- Phase Portraits
+	- Stability of Solutions
+Bullet Points:
+	- Intervals of Existence
+Bullet Points:
+	- Population Dynamics
+	- Phase Portraits
+	- Stability of Solutions
+Bullet Points:
+	- Two-Dimensional Systems
+	- n-Dimensional Systems
+	- Homogenous Systems with Constant Coefficients
+Distinct Real Nonzero Eigenvalues
+Zero Eigenvalues
+Complex Eigenvalues
+Repeated Real Eigenvalues
+Phase Portraits
+	- Distinct Real Nonzero Eigenvalues
+	- Zero Eigenvalues
+	- Complex Eigenvalues
+	- Repeated Real Eigenvalues
+	- Phase Portraits
+	- Shifted Systems
+Salt in Several Tanks
+Electric Circuits
+	- Salt in Several Tanks
+	- Electric Circuits
+Bullet Points:
+	- Distinct Real Nonzero Eigenvalues
+	- Zero Eigenvalues
+	- Complex Eigenvalues
+	- Repeated Real Eigenvalues
+	- Phase Portraits
+Bullet Points:
+	- Salt in Several Tanks
+	- Electric Circuits
+Bullet Points:
+	- Homogenous Equations
+	- Homogenous Equations with Constant Coefficients
+Distinct Real Nonzero Eigenvalues
+Complex Eigenvalues
+Repeated Eigenvalues
+Zero Eigenvalues
+	- Distinct Real Nonzero Eigenvalues
+	- Complex Eigenvalues
+	- Repeated Eigenvalues
+	- Zero Eigenvalues
+	- Free Vibrations
+	- Nonhomogeneous Equations
+Method of Undetermined Coefficients
+Variation of Parameters
+	- Method of Undetermined Coefficients
+	- Variation of Parameters
+	- Forced Vibrations
+Bullet Points:
+	- Distinct Real Nonzero Eigenvalues
+	- Complex Eigenvalues
+	- Repeated Eigenvalues
+	- Zero Eigenvalues
+Bullet Points:
+	- Method of Undetermined Coefficients
+	- Variation of Parameters
+Bullet Points:
+	- The Inverse Laplace Transform
+	- Solving Differential Equations
+	- Discontinuous Functions
+	- Periodic Functions
+	- Impulse Functions
+	- Convolution
+Bullet Points:
+	- Stability
+	- Almost Linear Systems
+	- Competing Species
+	- Predator-Prey Systems
+	- Lorenz Attractor
+Bullet Points:
+	- Euler's Method
+	- Improved Euler's Method
+	- Runge-Kutta Method
+Bullet Points:
+	- MATH 2562 is the honors equivalent, which includes additional topics and goes into more depth in general.
+Bullet Points:
+	- https://www.youtube.com/user/msebastiznf/playlists is a set of youtube videos created by Sebastian Fernandez, a former MATH 2552 TA. These videos cover the entire course and are very popular.

@@ -1,0 +1,160 @@
+URL: https://gt-student-wiki.org/mediawiki/index.php/ECE_2040
+Title: ECE 2040 - Circuit Analysis
+Content:
+	ECE 2040 is a 3 credit hour class with no lab requirement. It is an elective for electrical engineering majors and a requirement for computer engineering majors.[1] ECE 2040 is an introductory course that teaches methods of circuit analysis, an understanding of the physical laws governing circuits, and linear elements used in circuits (i.e. resistors, capacitors, inductors).  Several lab projects utilizing the myDAQ, a data acquisition device also used in ECE 2020 and ECE 3084, are featured in the course. Students are required to either purchase a myDAQ or check one out from the library for ECE 2040.
+	This topic list is from spring 2021.[1]
+	ECE 2040 is a prerequisite for many courses in the School of Electrical and Computer Engineering.  These courses are listed below.
+	Many of the above courses are also requirements for EE and CompE degrees--these courses may be prerequisites for other major-required courses or for certain electives.
+	ECE 2040 is also a pre or co-requisite for some non-ECE classes:
+	ECE 2040 is not a linked course.
+Bullet Points:
+	- 1 Topic List
+	- 2 Future Outlook
+	- 3 Registration
+	- 4 Resources
+	- 5 References
+Bullet Points:
+	- Basic Concepts
+Voltage, current, power, and energy
+Circuit elements (R, L, C, ideal operational amplifiers, ideal transformers)
+Independent and dependent sources
+Kirchoff's laws
+Series and parallel combinations of elements
+Voltage division and current division
+	- Voltage, current, power, and energy
+	- Circuit elements (R, L, C, ideal operational amplifiers, ideal transformers)
+	- Independent and dependent sources
+	- Kirchoff's laws
+	- Series and parallel combinations of elements
+	- Voltage division and current division
+	- DC circuit analysis
+Node analysis
+Mesh analysis
+	- Node analysis
+	- Mesh analysis
+	- Network theorems
+Linearity
+Superposition
+Source transformations (Thevenin-Norton equivalencies)
+Thevenin's theorem
+Norton's theorem
+	- Linearity
+	- Superposition
+	- Source transformations (Thevenin-Norton equivalencies)
+	- Thevenin's theorem
+	- Norton's theorem
+	- Circuits containing operational amplifiers
+Ideal Op-Amp model, with negative feedback
+Inverting and non-inverting configurations
+Voltage followers, adders, difference amplifiers
+	- Ideal Op-Amp model, with negative feedback
+	- Inverting and non-inverting configurations
+	- Voltage followers, adders, difference amplifiers
+	- First and second-order circuits
+Singularity functions
+RC and RL source-free circuits
+Constant and non-constant forcing functions
+Initial and final values
+Op-amp circuits for integration and differentiation
+Measurement of signals in physical circuits
+RLC circuits
+Time-domain analysis
+	- Singularity functions
+	- RC and RL source-free circuits
+	- Constant and non-constant forcing functions
+	- Initial and final values
+	- Op-amp circuits for integration and differentiation
+	- Measurement of signals in physical circuits
+	- RLC circuits
+	- Time-domain analysis
+	- Sinusoidal steady-state (SSS) analysis
+Sinusoids
+Complex numbers
+Complex exponential representations of sinusoids (phasors)
+Impedance and admittance
+Superposition, Thevenin and Norton theorems
+Analysis and network theorems for SSS
+Frequency response
+Bode (BOH-dee or Bo-duh) plots
+Resonance
+Measurement of frequency response of physical circuits
+	- Sinusoids
+	- Complex numbers
+	- Complex exponential representations of sinusoids (phasors)
+	- Impedance and admittance
+	- Superposition, Thevenin and Norton theorems
+	- Analysis and network theorems for SSS
+	- Frequency response
+	- Bode (BOH-dee or Bo-duh) plots
+	- Resonance
+	- Measurement of frequency response of physical circuits
+	- Power analysis
+Instantaneous and average power
+Power factor and power factor correction
+Complex power
+Maximum power transfer
+	- Instantaneous and average power
+	- Power factor and power factor correction
+	- Complex power
+	- Maximum power transfer
+Bullet Points:
+	- Voltage, current, power, and energy
+	- Circuit elements (R, L, C, ideal operational amplifiers, ideal transformers)
+	- Independent and dependent sources
+	- Kirchoff's laws
+	- Series and parallel combinations of elements
+	- Voltage division and current division
+Bullet Points:
+	- Node analysis
+	- Mesh analysis
+Bullet Points:
+	- Linearity
+	- Superposition
+	- Source transformations (Thevenin-Norton equivalencies)
+	- Thevenin's theorem
+	- Norton's theorem
+Bullet Points:
+	- Ideal Op-Amp model, with negative feedback
+	- Inverting and non-inverting configurations
+	- Voltage followers, adders, difference amplifiers
+Bullet Points:
+	- Singularity functions
+	- RC and RL source-free circuits
+	- Constant and non-constant forcing functions
+	- Initial and final values
+	- Op-amp circuits for integration and differentiation
+	- Measurement of signals in physical circuits
+	- RLC circuits
+	- Time-domain analysis
+Bullet Points:
+	- Sinusoids
+	- Complex numbers
+	- Complex exponential representations of sinusoids (phasors)
+	- Impedance and admittance
+	- Superposition, Thevenin and Norton theorems
+	- Analysis and network theorems for SSS
+	- Frequency response
+	- Bode (BOH-dee or Bo-duh) plots
+	- Resonance
+	- Measurement of frequency response of physical circuits
+Bullet Points:
+	- Instantaneous and average power
+	- Power factor and power factor correction
+	- Complex power
+	- Maximum power transfer
+Bullet Points:
+	- ECE 3025 - Electromagnetics
+	- ECE 3030 - Physical Foundations of Computer Engineering
+	- ECE 3040 - Microelectronic Circuits
+	- ECE 3077 - Introduction to Probability and Statistics for ECE
+	- ECE 3150 - VLSI and Advanced Digital Design
+	- ECE 3170 - Cryptographic Hardware for Embedded Systems
+	- ECE 3550 - Feedback Control System
+Bullet Points:
+	- BMED 4782 - Biosystems Analysis
+	- CHBE 4782 - Biosystems Analysis
+	- ME 3017 - System Dynamics
+	- ME 4013 - Hybrid Vehicle Powertrains
+	- ME 4782 - Biosystems Analysis
+Bullet Points:
+	- Course website
