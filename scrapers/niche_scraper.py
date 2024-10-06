@@ -3,6 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from .base_scraper import BaseScraper
 
+
 class NicheScraper(BaseScraper):
     """
     Scraper for Niche college pages, designed to extract information about
@@ -31,13 +32,11 @@ class NicheScraper(BaseScraper):
             return
 
         if "georgia-institute-of-technology" not in url \
-                or "college-of-computing-georgia-institute-of-technology" not in url \
-                or "college-of-sciences-georgia-institute-of-technology" not in url \
-                or "georgia-tech-college-of-design" not in url \
+                or "georgia-institute-of-technology" not in url \
+                or "georgia-tech" not in url \
                 or "georgia-tech-college-of-engineering" not in url \
                 or "ivan-allen-college-of-liberal-arts" not in url \
                 or "scheller-college-of-business" not in url:
-
             logging.warning("URL does not contain georgia tech info")
             return
 
