@@ -21,7 +21,7 @@ class ProfessorNotFound(Exception):
     def __str__(self):
 
         return (
-            f"Professor not found"
+            f"Proessor not found"
             + f" The search argument {self.search_argument} did not"
             + f" match with any professor's {self.search_parameter}"
         )
@@ -34,7 +34,7 @@ class RateMyProfApi:
             os.mkdir("SchoolID_" + str(self.UniversityId))
 
         # dict of Professor
-        # self.professors= self.scrape_professors(testing)
+        self.professors= self.scrape_professors(testing)
         self.indexnumber = False
 
     def scrape_professors(
@@ -82,14 +82,24 @@ class RateMyProfApi:
         temp_jsonpage = json.loads(page.content)
         num_of_prof = (
             temp_jsonpage["remaining"] + 20
-        )  # get the number of professors at William Paterson University
+        )  # get the number of professors at the University
         return num_of_prof
 
     def search_professor(self, ProfessorName):
+        print("ProfessorName:" + ProfessorName)
         self.indexnumber = self.get_professor_index(ProfessorName)
-        self.print_professor_info()
+        #self.print_professor_info()
         return self.indexnumber
 
+    def get_professor_index(self, ProfessorName):
+        print("I have reached get_Professor_index")
+        first_name = ProfessorName.lower()
+        for name in self.professors:
+            if first_name == self.professors[name].first_name.lower():
+                return self.professors[name].ratemyprof_id
+       
+       # Raise error if no matching professor found
+        raise ProfessorNotFound(first_name, "First Name")
 
 
     def get_professor_by_last_name(
@@ -100,9 +110,9 @@ class RateMyProfApi:
         Case insenstive.
         '''
         last_name = last_name.lower()
-        for name in professors:
-            if last_name == professors[name].last_name.lower():
-                return professors[name]
+        for name in self.professors:
+            if last_name == self.professors[name].last_name.lower():
+                return self.professors[name]
 
         # Raise error if no matching professor found
         raise ProfessorNotFound(last_name, "Last Name")
@@ -203,40 +213,13 @@ class RateMyProfApi:
             for data in rlist:
                 writer.writerow(data)
 
+    # Compiles CSV files with reviews for each professor
+    def CompileAllProfReviews(self):
+        for name in self.professors:
+            reviewsList = self.create_reviews_list(self.professors[name].ratemyprof_id)
+            self.WriteReviewsListToCSV(reviewsList, self.professors[name].ratemyprof_id)        
+        
 
-# Time for some examples!
 if __name__ == '__main__':
-
-    
     GeorgiaTech = RateMyProfApi(361)
-
-
-
-    '''
-    # Getting general professor info!
-    uci = RateMyProfApi(1074)
-
-
-    # uci.search_professor("Pattis")
-    # uci.print_professor_detail("overall_rating")
-    
-    MassInstTech = RateMyProfApi(580)
-    MassInstTech.search_professor("Robert Berwick")
-    MassInstTech.print_professor_detail("overall_rating")
-
-    # Let's try the above class out to get data from a number of schools!
-    # William Patterson, Case Western, University of Chicago, CMU, Princeton, Yale, MIT, UTexas at Austin, Duke, Stanford, Rice, Tufts
-    # For simple test, try tid 97904 at school 1205
-    schools = [1205, 186, 1085, 181, 780, 1222, 580, 1255, 1350, 953, 799, 1040]
-    for school in schools:
-        print("=== Processing School " + str(school) + " ===")
-        rmps = RateMyProfApi(school)
-        rmps.WriteProfessorListToCSV()
-        professors = rmps.get_professor_list()
-        for professor in professors:
-            reviewslist = rmps.create_reviews_list(professor.get("tid"))
-            rmps.WriteReviewsListToCSV(reviewslist, professor.get("tid"))
-    '''
-    
-
-    
+    GeorgiaTech.CompileAllProfReviews()
