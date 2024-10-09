@@ -1,0 +1,81 @@
+{
+  "Georgia Institute of Technology": {
+    "niche_report_card": {
+      "Academics": "A+",
+      "Value": "A+",
+      "Diversity": "A",
+      "Campus": "B+",
+      "Athletics": "A-",
+      "Party Scene": "A-",
+      "Professors": "A+",
+      "Location": "A",
+      "Dorms": "C",
+      "Campus Food": "C",
+      "Student Life": "A+",
+      "Safety": "B"
+    },
+    "after_college": {
+      "median_earning_6_years": "$79,100",
+      "graduation_rate": "93%",
+      "employment_rate": "95%"
+    },
+    "students": {
+      "full_time": "16207",
+      "part_time": "2208",
+      "undergrad_over_25": "2%",
+      "pell_grant": "12%",
+      "varsity_athletes": "3%"
+    },
+    "popular_majors": [
+      "Information Science",
+      "Mechanical Engineering",
+      "Industrial Engineering",
+      "Business",
+      "Bioengineering and Biomedical Engineering",
+      "Aerospace Engineering",
+      "Chemical Engineering",
+      "Electrical Engineering",
+      "Computer Hardware Engineering",
+      "Biology"
+    ],
+    "cost": {
+      "net_price_per_year": "$17,402",
+      "average_aid": "$13,992",
+      "percentage_aid": "73%"
+    },
+    "admissions": {
+      "statistics": {
+        "acceptance_rate": "17%",
+        "early_decision_acceptance_rate": "",
+        "total_applicants": "50,610",
+        "sat_range": "1370-1550",
+        "sat_reading": "670-760",
+        "sat_math": "700-790",
+        "sat_submission_percentage": "74%",
+        "act_range": "31-35",
+        "act_english": "32-35",
+        "act_math": "30-35",
+        "act_writing": "8-9",
+        "act_submission_percentage": "38%"
+      },
+      "deadlines": {
+        "application_deadline": "January 6",
+        "early_action_deadline": "October 15",
+        "offers_early_decision": "No",
+        "offers_early_action": "Yes",
+        "application_fee": "$75",
+        "application_website": "https://www.admission.gatech.edu/apply/",
+        "accepts_common_app": "Yes",
+        "accepts_coalition_app": "Yes"
+      },
+      "requirements": {
+        "highschool_gpa": "Required",
+        "rank": "Neither required nor recommended",
+        "highschool_transcript": "Required",
+        "college_prep_coures": "Required",
+        "sat/act": "Required",
+        "recommendations": "Considered but not required"
+      }
+    }
+  }
+}
