@@ -1,3 +1,3 @@
 # GT-RAG
 
-Scrapers with only firecrawl. Same format, great for LLMs.
+Scrapers using Scrapy with Data Processing.
