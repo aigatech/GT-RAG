@@ -1,10 +1,4 @@
 import os
-import requests
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
-import time
-
-import os
 import time
 import requests
 from urllib.parse import urlparse, urljoin
@@ -27,14 +21,15 @@ class GTWebsiteScraper:
             file.write(content)
         print(f"Saved: {filepath}")
 
-    def scrape_website(self, base_url):
-        if base_url in self.visited_urls:
+    def scrape_website(self, base_url, depth=0, max_depth=3):
+        if base_url in self.visited_urls or depth > max_depth:
             return
         self.visited_urls.add(base_url)
         
         try:
-            response = requests.get(base_url)
+            response = requests.get(base_url, timeout=10)
             response.raise_for_status()
+            response.encoding = 'utf-8'
         except requests.RequestException as e:
             print(f"Request failed for {base_url}: {e}")
             return
@@ -48,13 +43,20 @@ class GTWebsiteScraper:
         links = soup.find_all('a', href=True)
         for link in links:
             href = link['href']
+            if not urlparse(href).scheme and not href.startswith('/'):
+                continue
             full_url = urljoin(base_url, href)
             
-            if urlparse(full_url).netloc == urlparse(base_url).netloc:
+            if urlparse(full_url).netloc.lower() == urlparse(base_url).netloc.lower():
                 if full_url not in self.visited_urls:
-                    time.sleep(1)  # Add delay to avoid overwhelming the server
-                    self.scrape_website(full_url)
+                    time.sleep(1)
+                    self.scrape_website(full_url, depth + 1)
 
     def start_scraping(self):
         self.scrape_website(self.base_url)
 
+# Initialize and start scraping
+if __name__ == '__main__':
+    base_url = 'https://www.gatech.edu'
+    scraper = GTWebsiteScraper(base_url)
+    scraper.start_scraping()
